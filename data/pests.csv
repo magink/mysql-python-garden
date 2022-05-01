@@ -1,0 +1,46 @@
+pest_id,type_id,name
+1,1,aphids
+2,1,thrips
+3,1,leaf miners
+4,1,scale
+5,1,whiteflies
+6,1,earwigs
+7,1,cutworms
+8,1,fungus gnats
+9,1,mealybugs
+10,1,cabbage worm
+11,1,squash bugs
+12,1,hornworms
+13,1,wireworms
+14,1,cucumber beetles
+15,2,garden slug 
+16,2,field slug
+17,2,keel slug
+18,2,black slug
+19,2,white italian snail
+20,2,common white snail
+21,2,banded slug
+22,2,greenhouse slug
+23,3,curly top
+24,3,mosaic
+25,3,psorosis
+26,3,spotted wilt
+27,4,aster yellows
+28,4,bacterial wilt
+29,4,canker
+30,4,crown gall
+31,4,basal rot
+32,4,scab
+33,5,grey mold
+34,5,powdery mildew
+35,5,leaf spot
+36,5,white blister
+37,5,downy mildews
+38,5,clubroot 
+39,5,pythium 
+40,5,sclerotinia rots
+41,5,fusarium wilts
+42,5,anthracnose 
+43,5,rhizoctonia rots
+44,5,black knot
+45,5,blight

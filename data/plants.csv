@@ -1,0 +1,1001 @@
+plant_id,common_name,botanical_name,family,type,lifespan,season,soil_moisture,sun
+1,Drops Of Gold,Prosartes hookeri Torr. var. parvifolia (S. Watson) Kartesz,Liliaceae,herbaceous,perennial,spring,moderate,partial shade
+2,Treetrunk Fern,Anetium Splitg.,Vittariaceae,woody,na,spring,dry,full sun
+3,Parish's Yampah,Perideridia parishii (J.M. Coult. & Rose) A. Nelson & J.F. Macbr. ssp. latifolia (A. Gray) T.I. Chuang & Constance,Apiaceae,woody,na,fall,wet,partial shade
+4,Whisk Fern,Psilotum ×intermedium W.H. Wagner,Psilotaceae,herbaceous,biannual,spring,moderate,partial shade
+5,Paintedtongue,Bouchetia erecta DC.,Solanaceae,woody,na,spring,moderate,full shade
+6,Ferruginous Clerodendrum,Clerodendrum trichotomum Thunb. var. ferrugineum Nakai,Verbenaceae,woody,na,summer,wet,partial shade
+7,Colorado Barberry,Berberis fendleri A. Gray,Berberidaceae,herbaceous,biannual,fall,moderate,full shade
+8,Purple Chinese Houses,Collinsia heterophylla Buist ex Graham,Scrophulariaceae,woody,na,spring,moderate,full sun
+9,Egg Milkvetch,Astragalus oophorus S. Watson,Fabaceae,woody,na,summer,wet,full shade
+10,Northern Kittentails,Synthyris borealis Pennell,Scrophulariaceae,woody,na,summer,wet,full shade
+11,Rimelia Lichen,Rimelia commensurata (Hale) Hale & Fletcher,Parmeliaceae,woody,na,fall,dry,full shade
+12,Shasta Clarkia,Clarkia borealis E. Small ssp. arida E. Small,Onagraceae,herbaceous,biannual,fall,wet,full shade
+13,Devil Cholla,Grusonia emoryi (Engelm.) Pinkava,Cactaceae,herbaceous,perennial,spring,dry,full shade
+14,Red Mulberry,Morus rubra L.,Moraceae,herbaceous,annual,fall,wet,full shade
+15,Stemless Dwarf-cudweed,Hesperevax acaulis (Kellogg) Greene,Asteraceae,herbaceous,annual,summer,moderate,partial shade
+16,Hornwort,Anthoceros L. emend. Prosk.,Anthocerotaceae,woody,na,spring,dry,partial shade
+17,Broadleaf Solomon's Seal,Polygonatum hirsutum (Bosc ex Poir.) Pursh,Liliaceae,herbaceous,perennial,spring,moderate,full sun
+18,Threadleaf Fleabane,Erigeron filifolius (Hook.) Nutt.,Asteraceae,woody,na,spring,wet,full sun
+19,Prickly Spiralgrass,Tuctoria mucronata (Crampton) J. Reeder,Poaceae,woody,na,summer,moderate,full sun
+20,Hybrid Oak,Quercus ×ashei Trel.,Fagaceae,herbaceous,annual,spring,dry,partial shade
+21,Underwood's Stopper,Eugenia underwoodii Britton,Myrtaceae,herbaceous,biannual,fall,dry,full shade
+22,Bearded Cupgrass,Eriochloa aristata Vasey,Poaceae,herbaceous,perennial,summer,wet,partial shade
+23,West Indian Spleenwort,Asplenium pteropus Kaulf.,Aspleniaceae,woody,na,summer,dry,partial shade
+24,Oklahoma Beardtongue,Penstemon oklahomensis Pennell,Scrophulariaceae,herbaceous,annual,fall,wet,full shade
+25,Great Basin Brome,Bromus polyanthus Scribn. ex Shear,Poaceae,herbaceous,perennial,summer,dry,full sun
+26,Hybrid Willow,Salix ×schneiderii B. Boivin,Salicaceae,woody,na,spring,wet,full sun
+27,Wideleaf Crumia Moss,Crumia latifolia (Kindb.) Schof.,Pottiaceae,herbaceous,biannual,fall,moderate,full sun
+28,Willkommia,Willkommia Hack.,Poaceae,herbaceous,annual,fall,dry,partial shade
+29,Nihoa Pritchardia,Pritchardia napaliensis H. St. John,Arecaceae,woody,na,summer,wet,full shade
+30,Wilson's Milkvetch,Astragalus lentiginosus Douglas ex Hook. var. wilsonii (Greene) Barneby,Fabaceae,woody,na,spring,dry,full sun
+31,Fringed Sedge,Carex crinita Lam. var. crinita,Cyperaceae,woody,na,spring,wet,partial shade
+32,Pacific Pohlia Moss,Pohlia pacifica Shaw,Bryaceae,woody,na,fall,wet,full sun
+33,Stebbins' Barley,×Elyhordeum stebbinsianum (Bowden) Bowden,Poaceae,herbaceous,annual,fall,dry,full sun
+34,Smallleaf Giant Hyssop,Agastache parvifolia Eastw.,Lamiaceae,woody,na,summer,wet,full sun
+35,Oneflowered Broomrape,Orobanche uniflora L.,Orobanchaceae,woody,na,summer,dry,full sun
+36,Hawthorn,Crataegus atrovirens J.B. Phipps & R.J.O. Kennon,Rosaceae,herbaceous,perennial,summer,dry,full shade
+37,Longflower Tuberose,Manfreda longiflora (Rose) Verh-Will.,Agavaceae,woody,na,spring,wet,full shade
+38,Vlassov's Phascum Moss,Phascum vlassovii Laz.,Pottiaceae,herbaceous,perennial,spring,moderate,full shade
+39,Chinquapin,Castanea pumila (L.) Mill.,Fagaceae,woody,na,fall,moderate,partial shade
+40,Climbing Dayflower,Commelina diffusa Burm. f.,Commelinaceae,woody,na,summer,moderate,full sun
+41,Desert Rose,Rosa stellata Wooton ssp. stellata,Rosaceae,herbaceous,perennial,spring,wet,full shade
+42,Trans-pecos Stinkleaf,Nectouxia formosa Kunth,Solanaceae,herbaceous,biannual,fall,wet,full shade
+43,Appalachian Cliff Fern,Woodsia appalachiana T.M.C. Taylor,Dryopteridaceae,herbaceous,biannual,fall,dry,full shade
+44,Panamint Mountain Lupine,Lupinus magnificus M.E. Jones,Fabaceae,herbaceous,annual,summer,dry,partial shade
+45,Santa Cruz Island Fringepod,Thysanocarpus conchuliferus Greene,Brassicaceae,woody,na,summer,wet,full shade
+46,Wart Lichen,Staurothele tenuissima Degel.,Verrucariaceae,woody,na,fall,moderate,full shade
+47,Slender Woodland Sedge,Carex digitalis Willd. var. floridana (L.H. Bailey) Naczi & Bryson,Cyperaceae,woody,na,fall,wet,full sun
+48,Yellow Monardella,Monardella nana A. Gray,Lamiaceae,woody,na,spring,dry,partial shade
+49,Glowvine,Saritaea magnifica (Sprague ex Stennis) Dugand,Bignoniaceae,woody,na,summer,wet,full shade
+50,Mountain Hairgrass,Vahlodea atropurpurea (Wahlenb.) Fr. ex Hartm.,Poaceae,woody,na,summer,wet,full shade
+51,Monte Guilarte Hollyfern,Polystichum calderonense Proctor,Dryopteridaceae,woody,na,fall,wet,full sun
+52,Idaho Milkvetch,"Astragalus conjunctus S. Watson var. rickardii S.L. Welsh, K. Beck & F. Caplow",Fabaceae,woody,na,summer,wet,full shade
+53,Bristly Hawkbit,Leontodon hispidus L.,Asteraceae,woody,na,spring,dry,full shade
+54,Crupina,Crupina (Pers.) DC.,Asteraceae,woody,na,fall,wet,full sun
+55,Desert Madwort,Alyssum desertorum Stapf var. desertorum,Brassicaceae,woody,na,fall,dry,full sun
+56,Parakeetflower,Heliconia psittacorum L. f.,Heliconiaceae,woody,na,spring,moderate,partial shade
+57,Cracked Lichen,Acarospora thelococcoides (Nyl.) Zahlbr.,Acarosporaceae,woody,na,fall,moderate,full shade
+58,Arar Tree,Tetraclinis articulata (Vahl) Masters,Cupressaceae,herbaceous,biannual,fall,dry,full shade
+59,Myrin's Aspicilia,Aspicilia myrinii (Fr.) Stein,Hymeneliaceae,woody,na,fall,dry,partial shade
+60,Carolina Woodrush,Luzula acuminata Raf. ssp. carolinae (S. Watson) Z. Kaplan,Juncaceae,woody,na,summer,dry,full sun
+61,Northern Rimmed Lichen,Aspicilia nordlandica (H. Magn.) Degel.,Hymeneliaceae,woody,na,summer,moderate,full shade
+62,Hollyleaf Clover,Trifolium gymnocarpon Nutt.,Fabaceae,herbaceous,perennial,spring,wet,partial shade
+63,Utah Columbine,Aquilegia scopulorum Tidestr. var. calcarea (M.E. Jones) Munz,Ranunculaceae,herbaceous,perennial,fall,moderate,full shade
+64,Black Dropseed,Sporobolus interruptus Vasey,Poaceae,woody,na,fall,dry,partial shade
+65,Owyhee Milkvetch,Astragalus atratus S. Watson var. owyheensis (A. Nelson & J.F. Macbr.) M.E. Jones,Fabaceae,herbaceous,perennial,fall,wet,full shade
+66,Sphagnum,Sphagnum squarrosum Crome,Sphagnaceae,woody,na,spring,moderate,full sun
+67,Alligatorlily,Hymenocallis palmeri S. Watson,Liliaceae,woody,na,summer,moderate,partial shade
+68,Paradox Campylopus Moss,Campylopus paradoxus Wilson,Dicranaceae,herbaceous,perennial,spring,dry,full shade
+69,Hairy Snakefern,Microgramma piloselloides (L.) Copeland,Polypodiaceae,herbaceous,perennial,spring,wet,full shade
+70,Topelia Lichen,Topelia P.M. Jørg. & Vezda,Stictidaceae,woody,na,summer,wet,full sun
+71,Kaulfuss' Lipfern,Gaga kaulfussii (Kunze) F.W. Li & Windham,Pteridaceae,herbaceous,annual,summer,dry,full sun
+72,Leather Spineflower,Lastarriaea coriacea (Goodman) Hoover,Polygonaceae,herbaceous,annual,spring,wet,full shade
+73,Shameplant,Mimosa pudica L. var. unijuga (Duchass. & Walp.) Griseb.,Fabaceae,woody,na,fall,dry,partial shade
+74,Pineywoods Geranium,Geranium caespitosum James var. caespitosum,Geraniaceae,woody,na,summer,moderate,full sun
+75,Wild Garlic,Tulbaghia L.,Liliaceae,woody,na,fall,wet,partial shade
+76,Andrews' Blackberry,Rubus andrewsianus Blanch.,Rosaceae,herbaceous,annual,fall,moderate,full sun
+77,Intermediate Cottongrass,Eriophorum ×medium Andersson ssp. ×medium ,Cyperaceae,woody,na,summer,moderate,full shade
+78,Durango Senna,Senna durangensis (Rose) Irwin & Barneby var. durangensis,Fabaceae,woody,na,fall,moderate,partial shade
+79,Bull Mallow,Malva nicaeensis All.,Malvaceae,woody,na,summer,wet,partial shade
+80,Bull Clover,Trifolium fucatum Lindl.,Fabaceae,herbaceous,annual,summer,dry,full shade
+81,Lindley's Clerodendrum,Clerodendrum lindleyi Decne. var. paniculatum Moldenke,Verbenaceae,herbaceous,perennial,spring,wet,full shade
+82,Mojave Cottonthorn,Tetradymia stenolepis Greene,Asteraceae,woody,na,fall,dry,full sun
+83,Koellensteinia,Koellensteinia Rchb. f.,Orchidaceae,woody,na,fall,moderate,partial shade
+84,Beavertail Pricklypear,Opuntia basilaris Engelm. & J.M. Bigelow var. basilaris,Cactaceae,woody,na,summer,wet,full shade
+85,Cockleshell Lichen,Hypocenomyce sorophora (Vain.) P. James & Poelt,Lecideaceae,woody,na,summer,dry,partial shade
+86,Little Sur Manzanita,Arctostaphylos edmundsii J.T. Howell,Ericaceae,herbaceous,perennial,spring,moderate,partial shade
+87,Threeleaf False Lily Of The Valley,Maianthemum trifolium (L.) Sloboda,Liliaceae,woody,na,fall,moderate,full shade
+88,Palestine Clover,Trifolium philistaeum Zohary,Fabaceae,woody,na,spring,moderate,full sun
+89,Paperflower,Bougainvillea glabra Choisy,Nyctaginaceae,woody,na,spring,wet,full shade
+90,Columbian Windflower,Anemone deltoidea Hook.,Ranunculaceae,herbaceous,annual,spring,wet,partial shade
+91,Chinese Tallow,Triadica Loureiro,Euphorbiaceae,herbaceous,annual,fall,moderate,partial shade
+92,Crum's Monolopia,Monolopia stricta Crum,Asteraceae,woody,na,spring,moderate,full shade
+93,Puerto Rico Hempvine,Mikania porosa Urb.,Asteraceae,herbaceous,annual,summer,dry,full sun
+94,Purpleflower Pinkroot,Spigelia alabamensis (K. Gould) K.G. Mathews & Weakley,Loganiaceae,herbaceous,biannual,fall,moderate,full sun
+95,Prostrate Clarkia,Clarkia prostrata F.H. Lewis & M.E. Lewis,Onagraceae,herbaceous,biannual,fall,dry,partial shade
+96,Fendler Threeawn,Aristida purpurea Nutt. var. longiseta (Steud.) Vasey,Poaceae,woody,na,fall,wet,full sun
+97,Largeleaf Blackberry,Rubus macrophyllus Weihe & Nees,Rosaceae,woody,na,summer,dry,full sun
+98,Dixie Spiderlily,Hymenocallis duvalensis Traub,Liliaceae,woody,na,spring,moderate,full sun
+99,Pinebush,Ericameria pinifolia (A. Gray) H.M. Hall,Asteraceae,herbaceous,biannual,fall,moderate,partial shade
+100,Yukon Hawkweed,Hieracium gracile Hook. var. yukonense A.E. Porsild,Asteraceae,woody,na,fall,dry,partial shade
+101,Davidson's Penstemon,Penstemon davidsonii Greene,Scrophulariaceae,herbaceous,annual,spring,dry,full shade
+102,Las Cuevas Mountainbay,Calyptranthes estremenae Alain,Myrtaceae,woody,na,fall,wet,partial shade
+103,Heartleaf Bittercress,Cardamine cordifolia A. Gray var. lyallii (S. Watson) A. Nelson & J.F. Macbr.,Brassicaceae,woody,na,summer,dry,full shade
+104,Angel's-tears,Brugmansia suaveolens (Humb. & Bonpl. ex Willd.) Bercht. & C. Presl,Solanaceae,woody,na,summer,wet,full sun
+105,Trumpet Honeysuckle,Lonicera sempervirens L.,Caprifoliaceae,herbaceous,annual,spring,dry,full shade
+106,Green Fly Orchid,Epidendrum magnoliae Muhl. var. mexicanum (L.O. Williams) P.M. Brown,Orchidaceae,herbaceous,biannual,summer,wet,full shade
+107,Thickspike Wheatgrass,Elymus lanceolatus (Scribn. & J.G. Sm.) Gould ssp. lanceolatus,Poaceae,woody,na,spring,dry,full sun
+108,Lecidea Lichen,Lecidea polycocca Sommerf.,Lecideaceae,herbaceous,biannual,summer,dry,full shade
+109,Calliergonella Moss,Calliergonella Loeske,Amblystegiaceae,woody,na,summer,wet,full sun
+110,Wand Riverhemp,Sesbania virgata (Cav.) Poir.,Fabaceae,herbaceous,biannual,fall,moderate,full sun
+111,Morisonia,Morisonia L.,Capparaceae,herbaceous,perennial,spring,wet,full shade
+112,Slender Centaury,Centaurium tenuiflorum (Hoffmanns. & Link) Fritsch,Gentianaceae,herbaceous,annual,fall,moderate,partial shade
+113,Vermejo Phlox,Phlox vermejoensis B.S. Legler,Polemoniaceae,woody,na,spring,dry,partial shade
+114,Curly Dock,Rumex crispus L.,Polygonaceae,woody,na,fall,dry,full shade
+115,Whitefingers Lichen,Siphula ceratites (Wahlenb.) Fr.,Uncertain Ascomycota Family,woody,na,summer,dry,full sun
+116,Edwards Plateau Spiderwort,Tradescantia pedicellata Celarier,Commelinaceae,herbaceous,perennial,spring,wet,partial shade
+117,New Zealand Flax,Phormium tenax J.R. Forst. & G. Forst.,Agavaceae,woody,na,spring,dry,full sun
+118,Arctic Bluegrass,Poa arctica R. Br. ssp. arctica,Poaceae,herbaceous,annual,spring,wet,full sun
+119,Longleaf Camphorweed,Pluchea longifolia Nash,Asteraceae,woody,na,summer,moderate,partial shade
+120,Ramonia,Ramonia microspora Vezda,Gyalectaceae,herbaceous,annual,spring,moderate,full shade
+121,Wart Lichen,Pyrenula cruentata (Müll. Arg.) R.C. Harris,Pyrenulaceae,herbaceous,perennial,spring,dry,full shade
+122,Spotted Joe Pye Weed,Eutrochium maculatum (L.) E.E. Lamont var. bruneri (A. Gray) E.E. Lamont,Asteraceae,woody,na,summer,moderate,partial shade
+123,Howell's Reedgrass,Calamagrostis howellii Vasey,Poaceae,woody,na,fall,wet,partial shade
+124,Tapered Rosette Grass,Dichanthelium acuminatum (Sw.) Gould & C.A. Clark,Poaceae,woody,na,summer,moderate,partial shade
+125,Schied's Flax,Linum schiedeanum Schltdl. & Cham.,Linaceae,woody,na,spring,wet,full sun
+126,Fox Sedge,Carex vulpinoidea Michx. var. vulpinoidea,Cyperaceae,woody,na,spring,wet,full sun
+127,Spiked Crested Coralroot,Hexalectris arizonica (S.Watson) A.H. Kenn. & L.E. Watson,Orchidaceae,woody,na,summer,dry,partial shade
+128,Chinle Saltbush,"Atriplex asterocarpa Stutz, G.L. Chu & S.C. Sand.",Chenopodiaceae,herbaceous,biannual,fall,wet,full shade
+129,Arctic Snow Lichen,Stereocaulon arcticum Lynge,Stereocaulaceae,herbaceous,perennial,summer,dry,full sun
+130,Spreading Pygmyleaf,Loeflingia squarrosa Nutt. ssp. cactorum Barneby & Twisselmann,Caryophyllaceae,woody,na,spring,dry,full shade
+131,Egg Milkvetch,Astragalus oophorus S. Watson var. oophorus,Fabaceae,woody,na,summer,dry,full shade
+132,Soft Agrimony,Agrimonia pubescens Wallr.,Rosaceae,herbaceous,annual,summer,wet,full shade
+133,Leafy Broom,Genista stenopetala Webb & Bethel.,Fabaceae,woody,na,fall,wet,full shade
+134,Shoestring Fern,Vittaria lineata (L.) Sm.,Vittariaceae,herbaceous,annual,summer,dry,full sun
+135,Rose Moss,Portulaca grandiflora Hook.,Portulacaceae,woody,na,fall,moderate,full shade
+136,Purpus' Phacelia,Phacelia purpusii Brandegee,Hydrophyllaceae,woody,na,spring,wet,full sun
+137,Star Of Bethlehem,Ornithogalum L.,Liliaceae,woody,na,summer,dry,full sun
+138,Laramie Columbine,Aquilegia laramiensis A. Nelson,Ranunculaceae,herbaceous,perennial,spring,wet,full sun
+139,Map Lichen,Rhizocarpon plicatile (Leight.) A.L. Sm.,Rhizocarpaceae,woody,na,fall,wet,full sun
+140,Pennsylvania Pellitory,Parietaria pensylvanica Muhl. ex Willd.,Urticaceae,herbaceous,perennial,spring,moderate,full shade
+141,Intermediate Paspalum,Paspalum intermedium Munro ex Morong,Poaceae,woody,na,fall,wet,partial shade
+142,Meadow Pennycress,Noccaea parviflora (A. Nelson) Holub,Brassicaceae,herbaceous,biannual,fall,dry,full sun
+143,Pencilflower,Stylosanthes Sw.,Fabaceae,herbaceous,annual,summer,moderate,full shade
+144,Rimrock Milkvetch,Astragalus desperatus M.E. Jones var. conspectus Barneby,Fabaceae,woody,na,spring,moderate,partial shade
+145,Obtuseleaf Schistidium Moss,Schistidium obtusifolium Irel. & H.A. Crum,Grimmiaceae,woody,na,fall,wet,full sun
+146,Bastard Stopper,Petitia domingensis Jacq.,Verbenaceae,herbaceous,perennial,fall,dry,full sun
+147,Alaskan Bluegrass,Poa hartzii Gandog. ssp. alaskana Soreng,Poaceae,woody,na,fall,moderate,full shade
+148,Berlandier's Wolfberry,Lycium berlandieri Dunal var. berlandieri,Solanaceae,woody,na,spring,moderate,full shade
+149,African Mahogany,Afzelia africana Sm. ex Pers.,Fabaceae,woody,na,fall,moderate,partial shade
+150,Hemlock Rosette Grass,Dichanthelium sabulorum (Lam.) Gould & C.A. Clark var. patulum (Scribn. & Merr.) Gould & C.A. Clark,Poaceae,woody,na,fall,moderate,full shade
+151,Dot Lichen,Arthonia albofuscescens Tuck.,Arthoniaceae,woody,na,spring,moderate,full shade
+152,Brownhair Snoutbean,Rhynchosia cinerea Nash,Fabaceae,herbaceous,perennial,summer,wet,full shade
+153,Marsh Mermaidweed,Proserpinaca palustris L. var. amblyogona Fernald,Haloragaceae,woody,na,spring,moderate,partial shade
+154,Horsehair Lichen,Bryoria nitidula (Th. Fr.) Brodo & D. Hawksw.,Parmeliaceae,herbaceous,perennial,spring,dry,full sun
+155,Guadeloupe Bog Orchid,Habenaria amalfitana Lehm. & Kränzlin,Orchidaceae,woody,na,fall,wet,full shade
+156,Awlfruit Sedge,Carex stipata Muhl. ex Willd.,Cyperaceae,woody,na,spring,dry,partial shade
+157,Peachleaf Bellflower,Campanula persicifolia L.,Campanulaceae,woody,na,fall,dry,full sun
+158,Wright's Golden Saxifrage,Chrysosplenium wrightii Franch. & Savigny,Saxifragaceae,herbaceous,annual,summer,wet,full sun
+159,Apple Of Peru,Nicandra physalodes (L.) Scop.,Solanaceae,herbaceous,biannual,fall,moderate,full sun
+160,Cutleaf Blazingstar,Mentzelia laciniata (Rydb.) J. Darl.,Loasaceae,woody,na,summer,wet,full sun
+161,Foxtail Flatsedge,Cyperus alopecuroides Rottb.,Cyperaceae,woody,na,summer,moderate,full shade
+162,Carveseed,Glyptopleura marginata D.C. Eaton,Asteraceae,herbaceous,annual,spring,moderate,full sun
+163,Persistentflower Phacelia,Phacelia marcescens Eastw. ex J.F. Macbr.,Hydrophyllaceae,woody,na,fall,wet,partial shade
+164,Stiff Sedge,Carex biltmoreana Mack.,Cyperaceae,woody,na,fall,moderate,partial shade
+165,Mexican Star,Milla biflora Cav.,Liliaceae,woody,na,fall,dry,partial shade
+166,Long Valley Tumblemustard,Thelypodiopsis ambigua (S. Watson) Al-Shehbaz var. ambigua,Brassicaceae,herbaceous,annual,fall,dry,full shade
+167,James' Galleta,Pleuraphis jamesii Torr.,Poaceae,herbaceous,annual,spring,dry,partial shade
+168,Colorado Four O'clock,Mirabilis multiflora (Torr.) A. Gray var. multiflora,Nyctaginaceae,woody,na,summer,dry,partial shade
+169,Spreading False Pimpernel,Lindernia diffusa (L.) Wettst.,Scrophulariaceae,herbaceous,annual,summer,wet,full shade
+170,Grass Fern,Vittaria graminifolia Kaulf.,Vittariaceae,woody,na,summer,dry,partial shade
+171,Sweet Bay,Laurus nobilis L.,Lauraceae,woody,na,fall,dry,full sun
+172,Quailbush,Atriplex lentiformis (Torr.) S. Watson ssp. breweri (S. Watson) H.M. Hall & Clem.,Chenopodiaceae,herbaceous,annual,fall,moderate,full sun
+173,False Waterwillow,Andrographis echioides (L.) Nees,Acanthaceae,herbaceous,biannual,spring,dry,partial shade
+174,Church's Wildrye,Elymus churchii J.J.N. Campb.,Poaceae,woody,na,spring,wet,partial shade
+175,Threadleaf Beardtongue,Penstemon filiformis (D.D. Keck) D.D. Keck,Scrophulariaceae,herbaceous,biannual,fall,moderate,partial shade
+176,Red Lupine,Lupinus ruber A. Heller,Fabaceae,herbaceous,biannual,spring,wet,partial shade
+177,Surinam Bulletwood,Manilkara bidentata (A. DC.) A. Chev ssp. surinamensis (Miq.) T.D. Penn.,Sapotaceae,woody,na,fall,wet,partial shade
+178,Duss' Tonguefern,Elaphoglossum petiolatum (Sw.) Urb. var. dussii (Underw. ex Maxon) Proctor,Dryopteridaceae,woody,na,spring,dry,partial shade
+179,Groundplum Milkvetch,Astragalus crassicarpus Nutt. var. crassicarpus,Fabaceae,herbaceous,biannual,fall,dry,full sun
+180,Adequate Spike Lichen,Calicium adequatum Nyl.,Caliciaceae,herbaceous,annual,summer,moderate,full shade
+181,Common Dandelion,Taraxacum officinale F.H. Wigg.,Asteraceae,herbaceous,biannual,summer,moderate,full shade
+182,Newcombe's Butterweed,Sinosenecio newcombei (Greene) J.P. Janovec & T.M. Barkley,Asteraceae,woody,na,summer,moderate,full shade
+183,Hooker's Townsend Daisy,Townsendia hookeri Beaman,Asteraceae,herbaceous,annual,fall,dry,full sun
+184,Basindaisy,Platyschkuhria integrifolia (A. Gray) Rydb. var. integrifolia,Asteraceae,herbaceous,biannual,summer,moderate,full sun
+185,Giant Sedge,Carex gigantea Rudge,Cyperaceae,herbaceous,perennial,spring,wet,full shade
+186,Xanthoparmelia Lichen,Xanthoparmelia stenophylloides (Müll. Arg.) Hale,Parmeliaceae,woody,na,spring,moderate,full sun
+187,Sierra False Bindweed,Calystegia malacophylla (Greene) Munz ssp. pedicellata (Jeps.) Munz,Convolvulaceae,woody,na,summer,moderate,full shade
+188,Whitewoolly Buckwheat,Eriogonum ochrocephalum S. Watson,Polygonaceae,woody,na,summer,dry,partial shade
+189,Alkali Pepperweed,Lepidium dictyotum A. Gray var. dictyotum,Brassicaceae,woody,na,spring,dry,full shade
+190,Wild Bergamot,Monarda fistulosa L. ssp. fistulosa var. rubra A. Gray,Lamiaceae,herbaceous,perennial,spring,dry,full sun
+191,Olympic Dichodontium Moss,Dichodontium olympicum Renauld & Cardot,Dicranaceae,herbaceous,biannual,fall,wet,partial shade
+192,Fleshy Lupine,Lupinus affinis J. Agardh,Fabaceae,herbaceous,biannual,fall,moderate,full sun
+193,Combseed,Pectocarya DC. ex Meisn.,Boraginaceae,herbaceous,biannual,fall,wet,full shade
+194,Northern Birch,Betula ×neoborealis Lepage,Betulaceae,woody,na,spring,moderate,full shade
+195,Puffcalyx Gilia,Gilia aliquanta A.D. Grant & V.E. Grant ssp. breviloba A.D. Grant & V.E. Grant,Polemoniaceae,woody,na,fall,dry,full sun
+196,Bouquet Aster,Eurybia mirabilis (Torr. & A. Gray) G.L. Nesom,Asteraceae,woody,na,spring,wet,full shade
+197,Cima Milkvetch,Astragalus cimae M.E. Jones var. sufflatus Barneby,Fabaceae,herbaceous,biannual,fall,wet,full shade
+198,Brome-like Sedge,Carex bromoides Schkuhr ex Willd. ssp. montana Naczi,Cyperaceae,herbaceous,biannual,spring,wet,partial shade
+199,Grayleaf Willow,Salix glauca L. ssp. glauca var. acutifolia (Hook.) C.K. Schneid.,Salicaceae,woody,na,summer,wet,partial shade
+200,Island Mistletoe,Phoradendron barahonae Urb. & Trel.,Viscaceae,herbaceous,biannual,summer,dry,full shade
+201,Plateau Milkvetch,Astragalus serpens M.E. Jones,Fabaceae,herbaceous,annual,spring,wet,partial shade
+202,Ringstem,Anulocaulis Standl.,Nyctaginaceae,herbaceous,perennial,spring,moderate,partial shade
+203,Thinfruit Labordia,Labordia sessilis A. Gray,Loganiaceae,woody,na,summer,wet,partial shade
+204,Eucalyptus,Eucalyptus fruticetorum F. Muell.,Myrtaceae,herbaceous,annual,fall,dry,partial shade
+205,Paleyellow Ragwort,Senecio integerrimus Nutt. var. ochroleucus (A. Gray) Cronquist,Asteraceae,herbaceous,perennial,spring,dry,full sun
+206,Limewater Brookweed,Samolus ebracteatus Kunth ssp. alyssoides (A. Heller) R. Knuth,Primulaceae,herbaceous,annual,summer,dry,partial shade
+207,Dixie Stitchwort,Minuartia muscorum (Fassett) Rabeler,Caryophyllaceae,woody,na,spring,moderate,full sun
+208,Map Lichen,Rhizocarpon subgeminatum Eitner,Rhizocarpaceae,woody,na,summer,moderate,full sun
+209,Mexican Grass,Ixophorus unisetus (J. Presl) Schltdl.,Poaceae,herbaceous,perennial,summer,wet,full sun
+210,Prickly Russian Thistle,Salsola tragus L.,Chenopodiaceae,woody,na,summer,wet,partial shade
+211,Inyo Bedstraw,Galium hypotrichium A. Gray ssp. inyoense Dempster & Ehrend.,Rubiaceae,herbaceous,biannual,fall,moderate,full sun
+212,Modoc Hawksbeard,Crepis modocensis Greene ssp. modocensis,Asteraceae,woody,na,summer,dry,full sun
+213,Earleaf Brickellbush,Brickellia amplexicaulis B.L. Rob.,Asteraceae,herbaceous,perennial,fall,dry,full sun
+214,Garcinia,Garcinia xanthochymus Hook. f. ex T. Anderson,Clusiaceae,woody,na,fall,moderate,full sun
+215,Sibbaldiopsis,Sibbaldiopsis Rydb.,Rosaceae,woody,na,fall,wet,partial shade
+216,Brachythecium Moss,Brachythecium biventrosum (Müll. Hal.) A. Jaeger,Brachytheciaceae,herbaceous,perennial,spring,moderate,full sun
+217,Hybrid Oak,Quercus ×palaeolithicola Trel.,Fagaceae,herbaceous,perennial,fall,moderate,full shade
+218,False Pimpernel,Lindernia All.,Scrophulariaceae,herbaceous,biannual,fall,dry,partial shade
+219,Ashby's Banksia,Banksia ashbyi Baker f.,Proteaceae,woody,na,fall,dry,full sun
+220,Oriental Mangrove,Bruguiera sexangula (Lour.) Poir.,Rhizophoraceae,herbaceous,annual,summer,dry,full sun
+221,Brazilian Joyweed,Alternanthera brasiliana (L.) Kuntze,Amaranthaceae,woody,na,summer,dry,full shade
+222,Littlewoman,Salvia serotina L.,Lamiaceae,woody,na,summer,moderate,full sun
+223,Ceratodon Moss,Ceratodon purpureus (Hedw.) Brid. var. purpureus,Ditrichaceae,woody,na,spring,moderate,full sun
+224,Gadsden Hawthorn,Crataegus rigens Beadle,Rosaceae,woody,na,spring,wet,full shade
+225,Obtuse Tortula Moss,Tortula obtusissima (Müll. Hal.) Mitt.,Pottiaceae,herbaceous,perennial,fall,dry,full sun
+226,Mojave Milkvetch,Astragalus mohavensis S. Watson var. hemigyrus (Clokey) Barneby,Fabaceae,woody,na,spring,dry,full sun
+227,Lava Hau Kuahiwi,Hibiscadelphus crucibracteatus Hobdy,Malvaceae,woody,na,spring,wet,partial shade
+228,Elegant Sweetclover,Melilotus elegans Salzmann,Fabaceae,woody,na,spring,moderate,partial shade
+229,Roundtooth Snakelily,Dichelostemma multiflorum (Benth.) A. Heller,Liliaceae,herbaceous,biannual,spring,moderate,full shade
+230,Husk Tomato,Physalis pubescens L. var. pubescens,Solanaceae,woody,na,spring,wet,partial shade
+231,Summit Labordia,Labordia fagraeoidea Gaudich.,Loganiaceae,herbaceous,perennial,fall,moderate,partial shade
+232,Eastern Purple Coneflower,Echinacea purpurea (L.) Moench,Asteraceae,herbaceous,biannual,fall,moderate,full shade
+233,Nineleaf Biscuitroot,Lomatium triternatum (Pursh) J.M. Coult. & Rose var. macrocarpum (J.M. Coult. & Rose) Mathias,Apiaceae,woody,na,fall,dry,full shade
+234,Palapalai,Microlepia strigosa (Thunb.) C. Presl,Dennstaedtiaceae,herbaceous,annual,spring,dry,full shade
+235,Wild Balata,Micropholis guyanensis (A. DC.) Pierre,Sapotaceae,woody,na,fall,dry,partial shade
+236,Cochise Sedge,Carex ultra L.H. Bailey,Cyperaceae,woody,na,summer,dry,full sun
+237,Carolina Fimbry,Fimbristylis caroliniana (Lam.) Fernald,Cyperaceae,herbaceous,biannual,fall,dry,full shade
+238,Pendantgrass,Arctophila fulva (Trin.) Rupr. ex Andersson,Poaceae,woody,na,summer,moderate,full sun
+239,Arizona Bugbane,Actaea arizonica (S. Watson) J. Compton,Ranunculaceae,herbaceous,biannual,spring,moderate,full shade
+240,Valley Oak,Quercus lobata Née,Fagaceae,woody,na,fall,wet,full shade
+241,Asphodel,Narthecium Huds.,Liliaceae,herbaceous,biannual,fall,moderate,full shade
+242,Florida Adder's-mouth Orchid,Malaxis spicata Sw.,Orchidaceae,herbaceous,perennial,summer,moderate,full shade
+243,Dwarf Phlox,Phlox condensata (A. Gray) E.E. Nelson,Polemoniaceae,herbaceous,perennial,summer,dry,full sun
+244,Herbaceous Blackberry,Rubus junceus Blanch.,Rosaceae,woody,na,summer,dry,full shade
+245,Golden Chain Tree,Laburnum Medik.,Fabaceae,herbaceous,perennial,summer,moderate,full shade
+246,Tall Ironweed,Vernonia angustifolia Michx.,Asteraceae,woody,na,summer,dry,full shade
+247,Mudflat Quillplant,Lilaeopsis masonii Mathias & Constance,Apiaceae,herbaceous,annual,spring,moderate,full shade
+248,Patterson's Bluegrass,Poa abbreviata R. Br. ssp. pattersonii (Vasey) Á. Löve & D. Löve & Kapoor,Poaceae,herbaceous,annual,summer,dry,partial shade
+249,Manyflower Leastdaisy,Chaetopappa bellioides (A. Gray) Shinners,Asteraceae,woody,na,spring,moderate,full shade
+250,Palmer's Spleenwort,Asplenium palmeri Maxon,Aspleniaceae,herbaceous,perennial,summer,moderate,full sun
+251,Gongolin,Ilex sideroxyloides (Sw.) Griseb.,Aquifoliaceae,woody,na,fall,moderate,full shade
+252,Western Burning Bush,Euonymus occidentalis Nutt. ex Torr. var. occidentalis,Celastraceae,woody,na,spring,dry,partial shade
+253,Red Beaksedge,Rhynchospora rufa (Nees) Boeckeler,Cyperaceae,woody,na,fall,moderate,full sun
+254,Pacific Dewberry,Rubus vitifolius Cham. & Schltdl. var. vitifolius,Rosaceae,herbaceous,perennial,fall,dry,full sun
+255,Late Purple Aster,Symphyotrichum patens (Aiton) G.L. Nesom var. patentissimum (Lindl. ex DC.) G.L. Nesom,Asteraceae,herbaceous,annual,summer,dry,partial shade
+256,Eggyolk Lichen,Candelariella lutella (Vain.) Rasanen,Candelariaceae,woody,na,summer,moderate,full shade
+257,Michuacan Lady Orchid,Stenorrhynchos michuacanum (Llave & Lex.) Schltr.,Orchidaceae,herbaceous,annual,summer,dry,full shade
+258,Dixie Ticktrefoil,Desmodium tortuosum (Sw.) DC.,Fabaceae,woody,na,summer,dry,full shade
+259,Perplexed Chiodecton Lichen,Chiodecton perplexum Nyl.,Opegraphaceae,herbaceous,annual,summer,dry,full shade
+260,Glycine,Glycine tabacina (Labill.) Benth.,Fabaceae,woody,na,fall,wet,full sun
+261,Nailwort,Paronychia Mill.,Caryophyllaceae,herbaceous,annual,fall,wet,partial shade
+262,Singapore Graveyard Flower,Plumeria obtusa L. var. obtusa,Apocynaceae,woody,na,fall,wet,full sun
+263,Cobwebby Wild Indigo,Baptisia arachnifera Duncan,Fabaceae,woody,na,fall,moderate,partial shade
+264,Scottish Licorice-root,Ligusticum scoticum L.,Apiaceae,woody,na,summer,moderate,partial shade
+265,Skin Lichen,Leptogium marginellum (Sw.) A. Gray,Collemataceae,herbaceous,annual,summer,dry,full sun
+266,Edwards Plateau Beardgrass,Bothriochloa edwardsiana (Gould) Parodi,Poaceae,woody,na,summer,wet,partial shade
+267,Circumpolar Starwort,Stellaria ruscifolia Pall. ex Schltdl. ssp. ruscifolia,Caryophyllaceae,woody,na,spring,dry,full shade
+268,Cup Lichen,Cladonia incrassata Flörke,Cladoniaceae,woody,na,summer,moderate,full sun
+269,Field Sowthistle,Sonchus arvensis L. ssp. arvensis,Asteraceae,woody,na,summer,dry,full sun
+270,Longleaf Brake,Pteris longifolia L.,Pteridaceae,woody,na,fall,wet,full sun
+271,Physcomitrella Moss,Physcomitrella Bruch & Schimp.,Funariaceae,woody,na,spring,moderate,partial shade
+272,Charlotte's Phacelia,Phacelia nashiana Jeps.,Hydrophyllaceae,herbaceous,biannual,fall,moderate,partial shade
+273,Elaeagnus Willow,Salix elaeagnos Scop.,Salicaceae,woody,na,fall,moderate,partial shade
+274,Shrubland Nehe,Lipochaeta lobata (Gaudich.) DC. var. lobata,Asteraceae,herbaceous,biannual,summer,dry,full shade
+275,Lempholemma Lichen,Lempholemma radiatum (Sommerf.) Henssen,Lichinaceae,woody,na,summer,dry,partial shade
+276,Flindersia,Flindersia R. Br.,Rutaceae,woody,na,spring,moderate,partial shade
+277,Hawthorn,Crataegus ×simulata Sarg.,Rosaceae,woody,na,fall,wet,partial shade
+278,Twogrooved Milkvetch,Astragalus bisulcatus (Hook.) A. Gray var. bisulcatus,Fabaceae,woody,na,summer,moderate,partial shade
+279,Jewelweed,Impatiens capensis Meerb.,Balsaminaceae,woody,na,summer,wet,full shade
+280,Trichosanthes,Trichosanthes L.,Cucurbitaceae,woody,na,summer,dry,full shade
+281,Bigtooth Aspen,Populus grandidentata Michx.,Salicaceae,woody,na,spring,moderate,full sun
+282,Godfrey's Stitchwort,Minuartia godfreyi (Shinners) McNeill,Caryophyllaceae,herbaceous,biannual,summer,dry,partial shade
+283,Payson's Milkvetch,Astragalus paysonii (Rydb.) Barneby,Fabaceae,herbaceous,perennial,spring,wet,full shade
+284,Small Limestone Moss,Seligeria calcarea (Hedw.) Bruch & Schimp.,Seligeriaceae,herbaceous,perennial,summer,moderate,full sun
+285,Curlytop Gumweed,Grindelia nuda Alph. Wood,Asteraceae,woody,na,fall,dry,full shade
+286,Small Green Wood Orchid,Platanthera clavellata (Michx.) Luer,Orchidaceae,herbaceous,biannual,spring,dry,partial shade
+287,Santa Catalina Figwort,Scrophularia villosa Pennell,Scrophulariaceae,woody,na,fall,moderate,partial shade
+288,Acaulon Moss,Acaulon muticum (Hedw.) Müll. Hal. var. muticum,Pottiaceae,woody,na,summer,dry,full sun
+289,Long Valley Tumblemustard,Thelypodiopsis ambigua (S. Watson) Al-Shehbaz,Brassicaceae,herbaceous,perennial,spring,wet,full shade
+290,Purplehead Sneezeweed,Helenium flexuosum Raf.,Asteraceae,herbaceous,perennial,summer,wet,partial shade
+291,Quincula,Quincula Raf.,Solanaceae,woody,na,fall,wet,partial shade
+292,James' Prairie Clover,Dalea jamesii (Torr.) Torr. & A. Gray,Fabaceae,herbaceous,biannual,fall,moderate,full shade
+293,Fragile Sedge,Carex membranacea Hook.,Cyperaceae,woody,na,spring,dry,partial shade
+294,Libertia,Libertia Spreng.,Iridaceae,woody,na,spring,wet,full sun
+295,Elephant Creeper,Argyreia nervosa (Burm. f.) Bojer,Convolvulaceae,herbaceous,annual,fall,wet,partial shade
+296,Silverscale Saltbush,Atriplex argentea Nutt. ssp. expansa (S. Watson) H.M. Hall & Clem.,Chenopodiaceae,herbaceous,annual,summer,moderate,full shade
+297,Intermountain Clover,Trifolium andinum Nutt. var. andinum,Fabaceae,herbaceous,perennial,summer,moderate,full shade
+298,Fowlsfoot,Serjania diversifolia (Jacq.) Radlk.,Sapindaceae,woody,na,summer,moderate,full shade
+299,Mono Phacelia,Phacelia monoensis Halse,Hydrophyllaceae,herbaceous,biannual,spring,moderate,partial shade
+300,Organ Mountain Laceleaf,Anthurium cordatum (L.) Schott,Araceae,woody,na,fall,dry,full shade
+301,Star Of Bethlehem,Ornithogalum L.,Liliaceae,herbaceous,biannual,summer,wet,full sun
+302,Ashleaf Goldenbanner,Thermopsis fraxinifolia Nutt. ex M.A. Curtis,Fabaceae,woody,na,fall,moderate,full shade
+303,Douglas's Catchfly,Silene douglasii Hook. var. douglasii,Caryophyllaceae,herbaceous,biannual,spring,wet,partial shade
+304,Splitleaf Cyanea,Cyanea grimesiana Gaudich. ssp. obatae (H. St. John) Lammers,Campanulaceae,woody,na,fall,wet,partial shade
+305,Alaskan Wheatgrass,Elymus alaskanus (Scribn. & Merr.) Á. Löve ssp. alaskanus,Poaceae,herbaceous,annual,summer,dry,full sun
+306,Jones' Columbine,Aquilegia jonesii Parry,Ranunculaceae,woody,na,fall,dry,full sun
+307,Chee Reedgrass,Calamagrostis epigeios (L.) Roth ssp. glomerata (Boiss. & Buhse) Tzvelev,Poaceae,woody,na,summer,dry,full shade
+308,Woolly Fingergrass,Digitaria eriantha Steud. ssp. pentzii (Stent) Kok,Poaceae,woody,na,spring,dry,partial shade
+309,Wachendorfia,Wachendorfia Burm.,Haemodoraceae,herbaceous,biannual,fall,wet,full shade
+310,White Locoweed,Oxytropis sericea Nutt. var. speciosa (Torr. & A. Gray) S.L. Welsh,Fabaceae,woody,na,summer,dry,partial shade
+311,Cochise Foxtail Cactus,Escobaria robbinsiorum (W.H. Earle) D.R. Hunt,Cactaceae,woody,na,fall,moderate,full shade
+312,Psorotichia Lichen,Psorotichia A. Massal.,Lichinaceae,herbaceous,biannual,spring,wet,full sun
+313,Yellow Pond-lily,Nuphar lutea (L.) Sm. ssp. orbiculata (Small) E.O. Beal,Nymphaeaceae,woody,na,spring,wet,full sun
+314,Swamp Larkspur,Delphinium uliginosum Curran,Ranunculaceae,herbaceous,biannual,fall,wet,full sun
+315,Beaked Spiny Polygala,Polygala heterorhyncha (Barneby) T. Wendt,Polygalaceae,woody,na,spring,moderate,partial shade
+316,Cottonseed,Micropus L.,Asteraceae,herbaceous,perennial,summer,dry,full shade
+317,Santesson's Tricharia Lichen,Tricharia santessonii D. Hawksw.,Gomphillaceae,herbaceous,biannual,spring,dry,full shade
+318,Trypelthelium Lichen,Trypethelium aeneum (Eschw.) Zahlbr.,Trypetheliaceae,herbaceous,biannual,fall,dry,full sun
+319,Silver False Spleenwort,Deparia acrostichoides (Sw.) M. Kato,Dryopteridaceae,woody,na,summer,wet,partial shade
+320,Bigelow's Monkeyflower,Mimulus bigelovii (A. Gray) A. Gray,Scrophulariaceae,woody,na,fall,wet,full sun
+321,Boxelder,Acer negundo L. var. interius (Britton) Sarg.,Aceraceae,woody,na,fall,wet,partial shade
+322,Crocynia Lichen,Crocynia (Ach.) A. Massal.,Crocyniaceae,woody,na,spring,moderate,partial shade
+323,Lawn Marshpennywort,Hydrocotyle sibthorpioides Lam.,Apiaceae,herbaceous,annual,summer,wet,full shade
+324,Sulphur Cosmos,Cosmos sulphureus Cav.,Asteraceae,herbaceous,perennial,spring,wet,full sun
+325,Bluntleaf Waterleaf,Hydrophyllum canadense L.,Hydrophyllaceae,herbaceous,perennial,fall,moderate,partial shade
+326,Racomitrium Moss,Racomitrium depressum Lesq.,Grimmiaceae,woody,na,summer,moderate,partial shade
+327,Blackeyed Susan,Rudbeckia hirta L. var. hirta,Asteraceae,herbaceous,perennial,fall,wet,full shade
+328,Hartweg's Paspalum,Paspalum hartwegianum Fourn.,Poaceae,woody,na,summer,dry,full shade
+329,Florida Bellwort,Uvularia floridana Chapm.,Liliaceae,herbaceous,biannual,spring,wet,full sun
+330,Black Elderberry,Sambucus nigra L.,Caprifoliaceae,herbaceous,biannual,spring,moderate,partial shade
+331,Water Chestnut,Trapa L.,Trapaceae,woody,na,summer,wet,full sun
+332,Anoectangium Moss,Anoectangium incurvans (Schimp. ex Besch.) E.B. Bartram,Pottiaceae,herbaceous,annual,summer,moderate,full sun
+333,Sweet Scented Geranium,Pelargonium graveolens L'Hér. ex Aiton,Geraniaceae,herbaceous,perennial,fall,dry,full shade
+334,Sedge,Carex ×subsalina Lepage,Cyperaceae,herbaceous,annual,fall,moderate,partial shade
+335,Greenland Woodrush,Luzula groenlandica Böcher,Juncaceae,herbaceous,biannual,summer,wet,partial shade
+336,Daisy Bush,Olearia Moench,Asteraceae,woody,na,spring,dry,full shade
+337,Needlegrass,Stipa sibirica (L.) Lam.,Poaceae,herbaceous,perennial,summer,wet,full shade
+338,Spleenwort,Asplenium ×inexpectatum (E.L. Braun ex Friesner) Morton,Aspleniaceae,herbaceous,biannual,spring,wet,partial shade
+339,Corn Speedwell,Veronica arvensis L.,Scrophulariaceae,herbaceous,biannual,spring,wet,partial shade
+340,Woolly Hedgenettle,Stachys byzantina K. Koch,Lamiaceae,woody,na,summer,dry,full shade
+341,Achotillo,Caryocar amygdaliferum Mutis,Caryocaraceae,woody,na,spring,dry,full shade
+342,American Bladdernut,Staphylea trifolia L.,Staphyleaceae,herbaceous,biannual,summer,wet,partial shade
+343,Spineless Wattle,Acacia muricata (L.) Willd.,Fabaceae,woody,na,summer,dry,full sun
+344,Sand Plain Dwarf Morning-glory,Evolvulus arenarius R.T. Harms,Convolvulaceae,herbaceous,annual,summer,dry,full sun
+345,Kamalo Gulch Schiedea,Schiedea lydgatei Hillebr.,Caryophyllaceae,herbaceous,perennial,spring,wet,full shade
+346,Blue Ridge Bittercress,Cardamine flagellifera O.E. Schulz var. hugeri (Small) Rollins,Brassicaceae,woody,na,spring,dry,partial shade
+347,James' Waterlily,Nymphaea jamesoniana Planch.,Nymphaeaceae,herbaceous,biannual,summer,wet,partial shade
+348,Cochise Scaly Cloakfern,Astrolepis cochisensis (Goodding) Benham & Windham ssp. cochisensis,Pteridaceae,herbaceous,perennial,summer,wet,partial shade
+349,Blackspore Quillwort,Isoetes melanospora Engelm.,Isoetaceae,woody,na,spring,wet,full sun
+350,Whorled Milkwort,Polygala verticillata L. var. verticillata,Polygalaceae,woody,na,spring,wet,full shade
+351,'opiko,Psychotria mauiensis Fosberg,Rubiaceae,herbaceous,annual,summer,moderate,full sun
+352,Lucy Braun's Rosinweed,Silphium terebinthinaceum Jacq. var. luciae-brauniae Steyerm.,Asteraceae,woody,na,summer,wet,full shade
+353,Undulate Atrichum Moss,Atrichum undulatum (Hedw.) P. Beauv.,Polytrichaceae,herbaceous,annual,spring,wet,full sun
+354,Midget Quillwort,Isoetes minima A.A. Eaton,Isoetaceae,woody,na,summer,dry,full sun
+355,Hairtip Clubmoss,Lycopodium venustulum Gaudich. var. verticale W.H. Wagner,Lycopodiaceae,woody,na,summer,wet,full shade
+356,Rim Lichen,Lecanora microbola H. Magn.,Lecanoraceae,woody,na,spring,dry,partial shade
+357,Remya,Remya Hillebr. ex Benth.,Asteraceae,woody,na,fall,moderate,full shade
+358,Whitefingers Lichen,Siphula Fr.,Uncertain Ascomycota Family,herbaceous,perennial,spring,moderate,full sun
+359,Wetforest Cyanea,Cyanea hamatiflora Rock ssp. hamatiflora,Campanulaceae,woody,na,spring,wet,full sun
+360,Island Rushrose,Helianthemum greenei B.L. Rob.,Cistaceae,woody,na,fall,moderate,full sun
+361,False Locust,Hebestigma cubense (Kunth) Urb.,Fabaceae,herbaceous,annual,summer,dry,full sun
+362,Fivenerve Helianthella,Helianthella quinquenervis (Hook.) A. Gray,Asteraceae,woody,na,fall,moderate,full shade
+363,Darkbrown Sedge,Carex atrofusca Schkuhr var. atrofusca,Cyperaceae,herbaceous,annual,spring,wet,partial shade
+364,Little Nipple Cactus,Mammillaria heyderi Muehlenpf. var. hemisphaerica Engelm.,Cactaceae,herbaceous,biannual,fall,dry,partial shade
+365,Pink Plains Beardtongue,Penstemon ambiguus Torr. var. laevissimus (D.D. Keck) N.H. Holmgren,Scrophulariaceae,herbaceous,annual,spring,moderate,partial shade
+366,Roundleaf Orchid,Amerorchis rotundifolia (Banks ex Pursh) Hultén,Orchidaceae,woody,na,fall,dry,partial shade
+367,Pimpernel,Anagallis L.,Primulaceae,woody,na,summer,wet,full shade
+368,Brittle Waternymph,Najas minor All.,Najadaceae,woody,na,spring,moderate,full shade
+369,Wildrice,Zizania L.,Poaceae,herbaceous,annual,summer,wet,full shade
+370,Pinyon Rockcress,Arabis dispar M.E. Jones,Brassicaceae,woody,na,summer,wet,full shade
+371,Coinvine,Dalbergia ecastaphyllum (L.) Taubert,Fabaceae,woody,na,spring,moderate,partial shade
+372,Hoary Buckwheat,Eriogonum saxatile S. Watson,Polygonaceae,woody,na,spring,wet,full sun
+373,Ox-eye,Buphthalmum salicifolium L.,Asteraceae,herbaceous,perennial,fall,wet,partial shade
+374,Herpetineuron Moss,Herpetineuron (Müll. Hal.) Cardot,Anomodontaceae,herbaceous,biannual,fall,moderate,partial shade
+375,Gray Chickensage,Sphaeromeria cana (D.C. Eaton) A. Heller,Asteraceae,woody,na,summer,dry,full sun
+376,Largeseed Goosefoot,Chenopodium macrospermum Hook. f.,Chenopodiaceae,woody,na,spring,dry,full shade
+377,Malabar Plum,Syzygium jambos (L.) Alston,Myrtaceae,woody,na,summer,dry,full sun
+378,Sprawling Dewberry,Rubus cubitans Blanch.,Rosaceae,woody,na,spring,wet,full shade
+379,Quill Fleabane,Erigeron gracilis Rydb.,Asteraceae,woody,na,fall,moderate,full sun
+380,Notable Wattle,Acacia notabilis F. Muell.,Fabaceae,woody,na,fall,dry,full shade
+381,Pussytoes,Antennaria ×foliacea Greene (pro sp.),Asteraceae,woody,na,summer,dry,partial shade
+382,Osmunda,Osmunda L.,Osmundaceae,herbaceous,annual,fall,dry,full sun
+383,False Spotted St. Johnswort,Hypericum pseudomaculatum Bush,Clusiaceae,woody,na,fall,dry,full sun
+384,Smallflower Grass Of Parnassus,Parnassia palustris L. var. parviflora (DC.) B. Boivin,Saxifragaceae,herbaceous,perennial,spring,wet,partial shade
+385,Spotted Evening Primrose,Oenothera canescens Torr. & Frém.,Onagraceae,woody,na,summer,wet,full shade
+386,Hooker's Scratchdaisy,Croptilon hookerianum (Torr. & A. Gray) House var. hookerianum,Asteraceae,herbaceous,annual,summer,moderate,full shade
+387,Diffuse Wallflower,Erysimum diffusum Ehrh.,Brassicaceae,woody,na,summer,dry,partial shade
+388,Parry's Mallow,Eremalche parryi (Greene) Greene ssp. parryi,Malvaceae,woody,na,fall,wet,full sun
+389,Harvestlice,Agrimonia parviflora Aiton,Rosaceae,woody,na,spring,moderate,partial shade
+390,Arrowleaf Violet,Viola sagittata Aiton var. ovata (Nutt.) Torr. & A. Gray,Violaceae,woody,na,spring,moderate,full shade
+391,Subalpine Bedstraw,Galium hypotrichium A. Gray ssp. subalpinum (Hilend & J.T. Howell) Ehrend.,Rubiaceae,woody,na,summer,moderate,full sun
+392,Quartzite Rimmed Lichen,Aspicilia quartzitica W.A. Weber,Hymeneliaceae,woody,na,summer,dry,full shade
+393,Neckera Moss,Neckera pennata Hedw.,Neckeraceae,herbaceous,perennial,fall,wet,full sun
+394,Green Hawthorn,Crataegus viridis L.,Rosaceae,herbaceous,perennial,spring,moderate,full sun
+395,Scribner's Grass,Scribneria Hack.,Poaceae,woody,na,summer,dry,full sun
+396,Small Limestone Moss,Seligeria oelandica C.E.O. Jensen & Medel.,Seligeriaceae,herbaceous,perennial,spring,dry,full sun
+397,Barnacle Lichen,Thelotrema lacteum Krempelh.,Thelotremataceae,woody,na,summer,wet,full sun
+398,Vavilov's Wheat,Triticum vavilovii Jakubz.,Poaceae,woody,na,summer,moderate,partial shade
+399,Point Reyes Ceanothus,Ceanothus gloriosus J.T. Howell var. exaltatus J.T. Howell,Rhamnaceae,herbaceous,perennial,fall,wet,full sun
+400,Bryocaulon Lichen,Bryocaulon divergens (Ach.) Karnefelt,Parmeliaceae,herbaceous,perennial,spring,dry,partial shade
+401,Chapman Oak,Quercus chapmanii Sarg.,Fagaceae,herbaceous,biannual,fall,moderate,partial shade
+402,Snake River Phlox,Phlox colubrina Wherry & Constance,Polemoniaceae,woody,na,summer,dry,full shade
+403,Macdougal's Indian Parsley,Aletes macdougalii J.M. Coult. & Rose ssp. macdougalii,Apiaceae,woody,na,spring,moderate,full shade
+404,Piedmont Threeawn,Aristida condensata Chapm.,Poaceae,herbaceous,biannual,summer,moderate,full shade
+405,American Water Starwort,Stellaria fontinalis (Short & Peter) B.L. Rob.,Caryophyllaceae,woody,na,summer,dry,partial shade
+406,Colorado False Hellebore,Veratrum tenuipetalum A. Heller,Liliaceae,woody,na,spring,wet,full shade
+407,Swamp Flatsedge,Cyperus distinctus Steud.,Cyperaceae,herbaceous,annual,spring,moderate,partial shade
+408,Idaho Bladderpod,Lesquerella carinata Rollins var. carinata,Brassicaceae,herbaceous,annual,summer,wet,full sun
+409,Smallflower Threadplant,Nemacladus ramosissimus Nutt.,Campanulaceae,herbaceous,perennial,fall,dry,partial shade
+410,Hupa Gooseberry,Ribes marshallii Greene,Grossulariaceae,herbaceous,annual,summer,dry,full sun
+411,Cobblestone Milkvetch,Astragalus nudisiliquus A. Nelson,Fabaceae,herbaceous,perennial,fall,moderate,full shade
+412,Chihuahua Scaly Cloakfern,Astrolepis cochisensis (Goodding) Benham & Windham ssp. chihuahuaensis Benham,Pteridaceae,herbaceous,biannual,fall,moderate,full sun
+413,Orcutt's Gymnostomiella Moss,Gymnostomiella orcuttii E.B. Bartram,Pottiaceae,woody,na,summer,wet,full sun
+414,Cyrtandra,Cyrtandra ×hosakae H. St. John & Storey (pro sp.),Gesneriaceae,woody,na,spring,dry,full sun
+415,Scouler's Woollyweed,Hieracium scouleri Hook. var. scouleri,Asteraceae,woody,na,fall,wet,partial shade
+416,Cardinal Beardtongue,Penstemon cardinalis Wooton & Standl. ssp. regalis (A. Nelson) Nisbet & R.C. Jacks.,Scrophulariaceae,herbaceous,annual,fall,moderate,full sun
+417,Aztec Goldenbush,Isocoma azteca G.L. Nesom,Asteraceae,herbaceous,perennial,fall,moderate,full sun
+418,Maryland Meadowbeauty,Rhexia mariana L. var. ventricosa (Fernald & Grisc.) Kral & Bostick,Melastomataceae,woody,na,fall,wet,full sun
+419,Common Stickyseed,Blennosperma nanum (Hook.) S.F. Blake var. nanum,Asteraceae,woody,na,spring,wet,partial shade
+420,Meadow Bistort,Polygonum bistorta L.,Polygonaceae,woody,na,spring,dry,full sun
+421,Alpine Chickweed,Cerastium alpinum L. ssp. lanatum (Lam.) Ces.,Caryophyllaceae,woody,na,fall,wet,full sun
+422,Buckwheat,Eriogonum ×blissianum H. Mason,Polygonaceae,woody,na,fall,moderate,full shade
+423,Alpine-ash,Eucalyptus delegatensis R.T. Baker,Myrtaceae,herbaceous,annual,fall,dry,partial shade
+424,Coneflower,Rudbeckia L.,Asteraceae,herbaceous,perennial,spring,dry,partial shade
+425,Orthotrichum Moss,Orthotrichum consimile Mitt.,Orthotrichaceae,woody,na,summer,moderate,partial shade
+426,San Diego Sagewort,Artemisia palmeri A. Gray,Asteraceae,woody,na,spring,dry,partial shade
+427,Cider Gum,Eucalyptus gunnii Hook. f.,Myrtaceae,herbaceous,annual,fall,moderate,full shade
+428,Napali Coast Papala,Charpentiera densiflora Sohmer,Amaranthaceae,woody,na,summer,moderate,partial shade
+429,Greater Yellow Lady's Slipper,Cypripedium parviflorum Salisb. var. pubescens (Willd.) Knight,Orchidaceae,woody,na,spring,wet,full sun
+430,Large Adderstongue,Ophioglossum polyphyllum A. Braun,Ophioglossaceae,herbaceous,biannual,summer,dry,full sun
+431,Oregon Stonecrop,Sedum oreganum Nutt.,Crassulaceae,herbaceous,perennial,summer,dry,partial shade
+432,Alpine Speedwell,Veronica alpina L.,Scrophulariaceae,herbaceous,annual,spring,moderate,full sun
+433,Longleaf Buckwheat,Eriogonum longifolium Nutt.,Polygonaceae,herbaceous,biannual,spring,dry,full shade
+434,Elliptic Yellowwood,Ochrosia elliptica Labill.,Apocynaceae,herbaceous,perennial,summer,moderate,partial shade
+435,Lost River Draba,Draba hitchcockii Rollins,Brassicaceae,woody,na,summer,moderate,full shade
+436,Birdcherry,Eugenia monticola (Sw.) DC.,Myrtaceae,herbaceous,biannual,spring,dry,full sun
+437,Arkansas Dozedaisy,Aphanostephus skirrhobasis (DC.) Trel. var. skirrhobasis,Asteraceae,woody,na,spring,moderate,partial shade
+438,Pygmypoppy,Canbya Parry ex A. Gray,Papaveraceae,woody,na,spring,moderate,partial shade
+439,'ala'a,Pouteria sandwicensis (A. Gray) Baehni & O. Deg.,Sapotaceae,herbaceous,biannual,spring,wet,full sun
+440,Cooper's Lipfern,Cheilanthes cooperae D.C. Eaton,Pteridaceae,herbaceous,annual,spring,dry,partial shade
+441,Dwarf Hackberry,Celtis tenuifolia Nutt.,Ulmaceae,herbaceous,perennial,fall,dry,full sun
+442,Jamaican Nettletree,Trema micrantha (L.) Blume,Ulmaceae,woody,na,spring,wet,full sun
+443,Akee,Blighia sapida K.D. Koenig,Sapindaceae,woody,na,spring,moderate,full sun
+444,Dwarf Checkerbloom,Sidalcea malviflora (DC.) A. Gray ex Benth. ssp. rostrata (Eastw.) Wiggins,Malvaceae,herbaceous,perennial,summer,dry,full shade
+445,Walking-stick Palm,Linospadix monostachya (Mart.) H. Wendl.,Arecaceae,herbaceous,biannual,summer,moderate,full sun
+446,Utah Serviceberry,Amelanchier utahensis Koehne,Rosaceae,woody,na,spring,moderate,full shade
+447,Cucubano De Vieques,Guettarda odorata (Jacq.) Lam.,Rubiaceae,herbaceous,annual,summer,dry,full shade
+448,Spiny Cliffbrake,Pellaea truncata Goodding,Pteridaceae,herbaceous,perennial,fall,dry,partial shade
+449,Washington Springbeauty,Claytonia washingtoniana (Suksd.) Suksd.,Portulacaceae,herbaceous,biannual,summer,wet,partial shade
+450,Dotted Lichen,Bacidia pallens (Kullhem) Zahlbr.,Bacidiaceae,herbaceous,biannual,spring,wet,partial shade
+451,Barrelier's Woodsorrel,Oxalis barrelieri L.,Oxalidaceae,woody,na,summer,dry,full shade
+452,Japanese False Bindweed,Calystegia hederacea Wall.,Convolvulaceae,herbaceous,annual,fall,wet,partial shade
+453,Makou,Peucedanum sandwicense Hillebr.,Apiaceae,herbaceous,annual,spring,moderate,full shade
+454,Panicledleaf Ticktrefoil,Desmodium paniculatum (L.) DC. var. paniculatum,Fabaceae,herbaceous,biannual,fall,wet,partial shade
+455,Chocolateweed,Melochia corchorifolia L.,Sterculiaceae,herbaceous,annual,summer,dry,full sun
+456,Slender Woollyheads,Psilocarphus tenellus Nutt. var. globiferus (Bertero ex DC.) Morefield,Asteraceae,herbaceous,perennial,fall,wet,full sun
+457,Small-leaf Delissea,Delissea lauliiana Lammers,Campanulaceae,herbaceous,annual,summer,dry,full shade
+458,Baker's Alpineparsley,Oreoxis bakeri J.M. Coult. & Rose,Apiaceae,herbaceous,biannual,summer,moderate,full sun
+459,Dye Popcornflower,Plagiobothrys infectivus I.M. Johnst.,Boraginaceae,woody,na,fall,moderate,full sun
+460,Birdnest Fern,Asplenium polyodon G. Forst. var. sectum (Hillebr.) Morton,Aspleniaceae,woody,na,fall,wet,full shade
+461,Thimble Grass,Fingerhuthia sesleriiformis Nees,Poaceae,woody,na,fall,dry,partial shade
+462,Iliau,Wilkesia A. Gray,Asteraceae,woody,na,spring,wet,full sun
+463,Alaska Bluegrass,Poa paucispicula Scribn. & Merr.,Poaceae,woody,na,spring,wet,full sun
+464,Inyo Rockcress,Arabis inyoensis Rollins,Brassicaceae,woody,na,spring,wet,full sun
+465,Largepod Pinweed,Lechea intermedia Leggett ex Britton var. intermedia,Cistaceae,woody,na,fall,moderate,partial shade
+466,Convex Entosthodon Moss,Entosthodon planoconvexus (E.B. Bartram) Grout,Funariaceae,herbaceous,annual,summer,dry,partial shade
+467,Cushion Townsend Daisy,Townsendia condensata Parry ex A. Gray var. anomala (Heiser) Dorn,Asteraceae,herbaceous,annual,fall,dry,full shade
+468,Climbing Aster,Ampelaster carolinianus (Walter) G.L. Nesom,Asteraceae,woody,na,spring,dry,partial shade
+469,Lyrepod,Lyrocarpa Hook. & Harv. ex Harv.,Brassicaceae,herbaceous,annual,summer,dry,full shade
+470,Hawai'i Hala Pepe,Pleomele hawaiiensis O. Deg. & I. Deg.,Liliaceae,herbaceous,biannual,spring,moderate,partial shade
+471,Alabama Serviceberry,Amelanchier arborea (Michx. f.) Fernald var. alabamensis (Britton) G.N. Jones,Rosaceae,herbaceous,biannual,spring,dry,full shade
+472,Koronivia Grass,Urochloa humidicola (Rendle) Morrone & Zuloaga,Poaceae,woody,na,spring,moderate,full shade
+473,Alpine Milkvetch,Astragalus alpinus L.,Fabaceae,woody,na,spring,dry,partial shade
+474,Madagascar Olive,Noronhia emarginata (Lam.) Hook,Oleaceae,herbaceous,biannual,summer,dry,partial shade
+475,Coon's Tail,Ceratophyllum demersum L.,Ceratophyllaceae,herbaceous,annual,summer,wet,full sun
+476,Greater Knapweed,Centaurea scabiosa L.,Asteraceae,herbaceous,biannual,summer,dry,full shade
+477,Waioiani Clermontia,Clermontia persicifolia Gaudich.,Campanulaceae,woody,na,summer,dry,full shade
+478,Winged Four O'clock,Mirabilis alipes (S. Watson) Pilz,Nyctaginaceae,herbaceous,biannual,fall,wet,partial shade
+479,Manyflower Sandmallow,Sidastrum multiflorum (Jacq.) Fryxell,Malvaceae,herbaceous,perennial,spring,wet,full shade
+480,Lewis' Buckwheat,Eriogonum lewisii Reveal,Polygonaceae,woody,na,spring,wet,partial shade
+481,Buchu,Agathosma betulina (Bergius) Pill.,Rutaceae,herbaceous,perennial,summer,wet,full shade
+482,Asian Ponysfoot,Dichondra micrantha Urb.,Convolvulaceae,woody,na,spring,dry,full sun
+483,Duchesne Rockcress,Arabis pulchra M.E. Jones ex S. Watson var. duchesnensis Rollins,Brassicaceae,herbaceous,annual,fall,moderate,partial shade
+484,American Vetch,Vicia americana Muhl. ex Willd. ssp. americana,Fabaceae,woody,na,summer,moderate,full shade
+485,Fly Beaksedge,Rhynchospora holoschoenoides (Rich.) Herter,Cyperaceae,herbaceous,annual,fall,moderate,full sun
+486,Rocky Mountain Buttercup,Ranunculus macauleyi A. Gray var. macauleyi,Ranunculaceae,woody,na,fall,wet,full shade
+487,Piedmont Pinweed,Lechea torreyi Leggett ex Britton,Cistaceae,woody,na,spring,dry,full sun
+488,Porterweed,Stachytarpheta ×intercedens Danser,Verbenaceae,herbaceous,perennial,summer,moderate,full shade
+489,Purple Vetch,Vicia benghalensis L.,Fabaceae,herbaceous,perennial,summer,wet,full shade
+490,Redwhisker Clammyweed,Polanisia dodecandra (L.) DC.,Capparaceae,herbaceous,annual,spring,moderate,partial shade
+491,Bishop's Milkvetch,Astragalus episcopus S. Watson var. episcopus,Fabaceae,herbaceous,perennial,spring,moderate,full sun
+492,Blistered Navel Lichen,Lasallia Mérat,Umbilicariaceae,herbaceous,perennial,spring,moderate,partial shade
+493,Laurel Sumac,Malosma Nutt. ex Abrams,Anacardiaceae,woody,na,fall,moderate,full shade
+494,Serpentine Phacelia,Phacelia corymbosa Jeps.,Hydrophyllaceae,herbaceous,biannual,fall,moderate,partial shade
+495,Sweetwood,Nectandra Roland. ex Rottb.,Lauraceae,herbaceous,annual,fall,dry,full sun
+496,Snow Lichen,Stereocaulon incrustatum Flörke,Stereocaulaceae,herbaceous,perennial,fall,moderate,full shade
+497,Desert Palafox,Palafoxia arida B.L. Turner & Morris,Asteraceae,herbaceous,perennial,fall,wet,full sun
+498,Tornillo,Prosopis reptans Benth.,Fabaceae,woody,na,fall,dry,full shade
+499,Trailing Phlox,Phlox nivalis Lodd. ex Sweet ssp. nivalis,Polemoniaceae,woody,na,fall,moderate,full sun
+500,Callicostella Moss,Callicostella (Müll. Hal.) Mitt.,Callicostaceae,woody,na,fall,dry,partial shade
+501,Hispid Starbur,Acanthospermum hispidum DC.,Asteraceae,herbaceous,biannual,summer,dry,full sun
+502,Wart Lichen,Pyrenula punctella (Nyl.) Trevis.,Pyrenulaceae,herbaceous,biannual,spring,dry,full shade
+503,Sicklepod,Arabis canadensis L.,Brassicaceae,herbaceous,biannual,summer,dry,partial shade
+504,Greenland Sedge,Carex ×groenlandica Lange (pro sp.),Cyperaceae,herbaceous,biannual,spring,wet,full sun
+505,Alabama Croton,Croton alabamensis E.A. Sm. ex Chapm.,Euphorbiaceae,woody,na,summer,moderate,partial shade
+506,Cuban Copperleaf,Acalypha setosa A. Rich.,Euphorbiaceae,herbaceous,perennial,fall,moderate,full sun
+507,Wax Tree,Toxicodendron succedaneum (L.) Kuntze,Anacardiaceae,woody,na,fall,dry,full sun
+508,Spreading Blazing Star,Liatris patens G.L. Nesom & Kral,Asteraceae,herbaceous,annual,summer,wet,full sun
+509,Pincushion Plant,Diapensia lapponica L.,Diapensiaceae,woody,na,fall,wet,full shade
+510,Howell's Quillwort,Isoetes howellii Engelm.,Isoetaceae,herbaceous,perennial,summer,moderate,full shade
+511,Tropical Desert-thorn,Lycium tweedianum Griseb.,Solanaceae,herbaceous,biannual,spring,wet,full shade
+512,Showy Goldenrod,Solidago speciosa Nutt. var. rigidiuscula Torr. & A. Gray,Asteraceae,woody,na,summer,moderate,full shade
+513,Flatspine Stickseed,Lappula occidentalis (S. Watson) Greene,Boraginaceae,woody,na,fall,wet,partial shade
+514,Liogier's Dwarf Polypody,Grammitis liogieri Proctor,Grammitidaceae,herbaceous,biannual,summer,dry,partial shade
+515,Barbed Rattlesnakeroot,Prenanthes barbata (Torr. & A. Gray) Milstead,Asteraceae,woody,na,summer,dry,full sun
+516,Parry's Bellflower,Campanula parryi A. Gray,Campanulaceae,herbaceous,annual,fall,moderate,partial shade
+517,Liverleaf Wintergreen,Pyrola asarifolia Michx. ssp. asarifolia,Pyrolaceae,herbaceous,biannual,spring,moderate,full sun
+518,Kalalau Rim Dubautia,Dubautia kenwoodii G.D. Carr,Asteraceae,herbaceous,biannual,spring,dry,partial shade
+519,Great Valley Phacelia,Phacelia ciliata Benth.,Hydrophyllaceae,woody,na,summer,wet,full shade
+520,California Barrel Cactus,Ferocactus cylindraceus (Engelm.) Orcutt,Cactaceae,herbaceous,perennial,fall,moderate,full sun
+521,West Indian Gherkin,Cucumis anguria L.,Cucurbitaceae,woody,na,summer,dry,partial shade
+522,Sixweeks Grama,Bouteloua barbata Lag.,Poaceae,herbaceous,biannual,summer,wet,partial shade
+523,Hagen's Distichium Moss,Distichium hagenii Ryan ex Philib.,Ditrichaceae,herbaceous,annual,summer,wet,full sun
+524,Waianae Range Pritchardia,Pritchardia kaalae Rock,Arecaceae,herbaceous,annual,spring,moderate,partial shade
+525,Coastal Sage Scrub Oak,Quercus dumosa Nutt.,Fagaceae,woody,na,summer,moderate,partial shade
+526,Candle Snuffer Moss,Encalypta affinis R. Hedw. var. affinis,Encalyptaceae,herbaceous,perennial,fall,wet,full shade
+527,Sphagnum Dewberry,Rubus signatus L.H. Bailey,Rosaceae,woody,na,summer,dry,partial shade
+528,Bryum Moss,Bryum dichotomum Hedw.,Bryaceae,woody,na,summer,dry,partial shade
+529,Coyo,Persea schiedeana Nees,Lauraceae,herbaceous,perennial,summer,dry,partial shade
+530,Herb Of Grace,Bacopa monnieri (L.) Pennell,Scrophulariaceae,herbaceous,biannual,spring,moderate,full shade
+531,Scrub Balm,Dicerandra frutescens Shinners ssp. frutescens,Lamiaceae,herbaceous,biannual,fall,moderate,full sun
+532,Littleleaf Alumroot,"Heuchera parvifolia Nutt. ex Torr. & A. Gray var. nivalis (Rosend., Butters & Lakela) Á. Löve & D. Löve & Kapoor",Saxifragaceae,herbaceous,annual,spring,wet,partial shade
+533,Varigated Chastetree,Vitex trifolia L. var. variegata Moldenke,Verbenaceae,woody,na,summer,dry,partial shade
+534,Shore Juniper,Juniperus conferta Parl.,Cupressaceae,woody,na,fall,moderate,partial shade
+535,Calotis,Calotis R. Br.,Asteraceae,woody,na,spring,wet,partial shade
+536,Sweetscented Pigeonwings,Clitoria fragrans Small,Fabaceae,woody,na,summer,wet,partial shade
+537,Pseudovina,Festuca pseudovina Hack. ex Wiesb.,Poaceae,herbaceous,perennial,spring,moderate,full sun
+538,Jones' Blazingstar,Mentzelia jonesii (Urb. & Gilg) H.J. Thomp. & Roberts,Loasaceae,herbaceous,annual,fall,moderate,full shade
+539,Dodder,Cuscuta L.,Cuscutaceae,herbaceous,annual,spring,wet,full shade
+540,Hypotrachyna Lichen,Hypotrachyna livida (Taylor) Hale,Parmeliaceae,herbaceous,perennial,fall,wet,partial shade
+541,Fluxweed,Trichostema brachiatum L.,Lamiaceae,woody,na,summer,dry,partial shade
+542,Showy Fly Honeysuckle,Lonicera ×bella Zabel,Caprifoliaceae,woody,na,spring,dry,partial shade
+543,Celmisia,Celmisia Cass.,Asteraceae,herbaceous,perennial,summer,dry,full sun
+544,Souari Nut,Caryocar nuciferum L.,Caryocaraceae,herbaceous,biannual,fall,dry,full sun
+545,Gypsoplaca Lichen,Gypsoplaca Timdal,Gypsoplaceae,herbaceous,perennial,fall,moderate,full shade
+546,Jaboticaba,Myrciaria cauliflora (Mart.) O. Berg,Myrtaceae,woody,na,fall,dry,full shade
+547,Three-rib Arrowgrass,Triglochin striata Ruiz & Pav.,Juncaginaceae,herbaceous,perennial,fall,moderate,full sun
+548,Vasey's Pondweed,Potamogeton vaseyi J.W. Robbins,Potamogetonaceae,woody,na,fall,dry,full sun
+549,Rusby's Rubberweed,Hymenoxys rusbyi (A. Gray) Cockerell,Asteraceae,herbaceous,biannual,fall,wet,full shade
+550,Luculia,Luculia Sweet,Rubiaceae,woody,na,fall,wet,full sun
+551,Rosette Lichen,Physcia pseudospeciosa J.W. Thomson,Physciaceae,herbaceous,biannual,fall,wet,partial shade
+552,Palo De Hierro,Ixora ferrea (Jacq.) Benth.,Rubiaceae,herbaceous,biannual,fall,dry,full sun
+553,Heppia Lichen,Heppia lutosa (Ach.) Nyl.,Heppiaceae,woody,na,fall,dry,full shade
+554,Common Calabash Tree,Crescentia cujete L.,Bignoniaceae,herbaceous,perennial,fall,wet,partial shade
+555,Green Withe,Vanilla claviculata (W. Wright) Sw.,Orchidaceae,woody,na,summer,wet,full sun
+556,Spirea,Spiraea ×hitchcockii Hess & Stoynoff,Rosaceae,herbaceous,perennial,spring,wet,partial shade
+557,Hybrid Ryegrass,×Leydeum Barkworth,Poaceae,woody,na,spring,dry,full sun
+558,American Fiveminute Grass,Tripogon spicatus (Nees) Ekman,Poaceae,herbaceous,perennial,spring,dry,partial shade
+559,Pacific Aster,Symphyotrichum chilense (Nees) G.L. Nesom var. medium (Jeps.) G.L. Nesom,Asteraceae,woody,na,summer,dry,partial shade
+560,Red Sandalwood,Pterocarpus santalinus L. f.,Fabaceae,herbaceous,perennial,spring,wet,partial shade
+561,Common Flax,Linum usitatissimum L.,Linaceae,herbaceous,biannual,spring,dry,partial shade
+562,Fremont's Beardtongue,Penstemon fremontii Torr. & A. Gray ex A. Gray var. glabrescens Dorn & Lichvar,Scrophulariaceae,herbaceous,perennial,summer,moderate,full sun
+563,Organ Mountain Indian Paintbrush,Castilleja organorum Standl.,Scrophulariaceae,herbaceous,perennial,spring,moderate,full sun
+564,Johnston's Monkeyflower,Mimulus johnstonii A.L. Grant,Scrophulariaceae,woody,na,spring,wet,partial shade
+565,Cerebral Fishscale Lichen,Psora cerebriformis W.A. Weber,Psoraceae,herbaceous,annual,fall,moderate,partial shade
+566,Paleflower Labordia,Labordia tinifolia A. Gray,Loganiaceae,herbaceous,annual,summer,dry,full sun
+567,Dixie Whitetop Aster,Sericocarpus tortifolius (Michx.) Nees,Asteraceae,herbaceous,perennial,summer,dry,full shade
+568,Sticky Monkeyflower,Mimulus viscidus Congd. ssp. viscidus,Scrophulariaceae,woody,na,spring,wet,full sun
+569,White Sunbonnets,Chaptalia albicans (Sw.) Vent. ex Steud.,Asteraceae,woody,na,fall,wet,full sun
+570,Sheathed Sedge,Carex vaginata Tausch,Cyperaceae,herbaceous,biannual,spring,wet,partial shade
+571,Radiola,Radiola Hill,Linaceae,woody,na,fall,dry,full sun
+572,Haresfoot Locoweed,Oxytropis lagopus Nutt. var. atropurpurea (Rydb.) Barneby,Fabaceae,herbaceous,perennial,summer,dry,full shade
+573,Nakedflower Ticktrefoil,Desmodium nudiflorum (L.) DC.,Fabaceae,woody,na,summer,dry,full shade
+574,Japanese Yam,Dioscorea japonica Thunb.,Dioscoreaceae,herbaceous,perennial,spring,moderate,partial shade
+575,Mangroveberry,Psidium longipes (Berg) McVaugh,Myrtaceae,woody,na,fall,wet,full shade
+576,Eastern Trailing Ticktrefoil,Desmodium humifusum (Muhl. ex Bigelow) Beck,Fabaceae,herbaceous,biannual,spring,dry,full sun
+577,Mountain Lichen,Dimelaena thysanota (Tuck.) Hale & W.L. Culb.,Physciaceae,woody,na,summer,wet,full shade
+578,Pinleaf Vervain,Verbena perennis Wooton,Verbenaceae,woody,na,spring,wet,full shade
+579,Texas Yellowstar,Lindheimera texana A. Gray & Engelm.,Asteraceae,herbaceous,perennial,fall,moderate,full shade
+580,Fiveangle Fimbry,Fimbristylis quinquangularis (Vahl) Kunth,Cyperaceae,woody,na,summer,moderate,full sun
+581,Mexican Plantain,Plantago australis Lam.,Plantaginaceae,woody,na,spring,wet,partial shade
+582,Edwards Plateau Thimbleweed,Anemone edwardsiana Tharp,Ranunculaceae,woody,na,spring,moderate,full shade
+583,Drummond's Clematis,Clematis drummondii Torr. & A. Gray,Ranunculaceae,herbaceous,biannual,fall,moderate,full sun
+584,Sweetbush,Bebbia juncea (Benth.) Greene,Asteraceae,woody,na,spring,moderate,partial shade
+585,Clasping Jewelflower,Streptanthus maculatus Nutt. ssp. maculatus,Brassicaceae,woody,na,fall,wet,full sun
+586,California Blackberry,Rubus ursinus Cham. & Schltdl. ssp. ursinus var. sirbenus (L.H. Bailey) J.T. Howell,Rosaceae,herbaceous,annual,fall,moderate,full shade
+587,Roughhairy Maiden Fern,Thelypteris hispidula (Decne.) C.F. Reed var. hispidula,Thelypteridaceae,woody,na,summer,dry,partial shade
+588,Trumpet Creeper,Campsis radicans (L.) Seem. ex Bureau,Bignoniaceae,herbaceous,annual,spring,dry,full sun
+589,Apple,Malus Mill.,Rosaceae,woody,na,fall,wet,full shade
+590,Smallray Swampwort,Enydra sessilis (Sw.) DC.,Asteraceae,herbaceous,perennial,spring,moderate,full sun
+591,Southern Cutgrass,Leersia hexandra Sw.,Poaceae,woody,na,fall,dry,full shade
+592,Slender Hawksbeard,Crepis atribarba A. Heller,Asteraceae,woody,na,spring,moderate,full shade
+593,Heterophyllium Moss,Heterophyllium affine (Hook.) Fleisch.,Sematophyllaceae,herbaceous,perennial,fall,dry,full shade
+594,Hawkweed,Hieracium ×atramentarium (Naegeli & Peter) Zahn ex Engl. (pro sp.),Asteraceae,woody,na,summer,dry,full shade
+595,Rinodina Lichen,Rinodina constrictula H. Magn.,Physciaceae,woody,na,spring,dry,full sun
+596,Mint,Mentha L.,Lamiaceae,herbaceous,annual,fall,wet,partial shade
+597,Rat's-tail Succulent,Villadia squamulosa (S. Watson) Rose,Crassulaceae,woody,na,spring,dry,full shade
+598,Woodland Figwort,Scrophularia nodosa L.,Scrophulariaceae,herbaceous,perennial,fall,moderate,partial shade
+599,Blunt Broom Sedge,Carex tribuloides Wahlenb.,Cyperaceae,herbaceous,annual,spring,wet,full shade
+600,Large Leather-root,Hoita macrostachya (DC.) Rydb.,Fabaceae,herbaceous,perennial,spring,wet,full shade
+601,Prickly Russian Thistle,Salsola tragus L.,Chenopodiaceae,herbaceous,biannual,summer,dry,full shade
+602,Common Dogmustard,Erucastrum gallicum (Willd.) O.E. Schulz,Brassicaceae,herbaceous,perennial,fall,moderate,partial shade
+603,Rubber Rabbitbrush,Ericameria nauseosa (Pall. ex Pursh) G.L. Nesom & Baird ssp. nauseosa var. glabrata (A. Gray) G.L. Nesom & Baird,Asteraceae,woody,na,summer,moderate,partial shade
+604,Western Umbrella-sedge,Fuirena simplex Vahl var. aristulata (Torr.) Kral,Cyperaceae,woody,na,spring,moderate,full sun
+605,Crandall's Wild Hollyhock,Iliamna crandallii (Rydb.) Wiggins,Malvaceae,woody,na,spring,dry,full shade
+606,Longhair Phlox,Phlox longipilosa Waterf.,Polemoniaceae,woody,na,fall,dry,partial shade
+607,Woodland-star,Lithophragma (Nutt.) Torr. & A. Gray,Saxifragaceae,herbaceous,perennial,summer,dry,full shade
+608,Gumtree,Sapium glandulosum (L.) Morong,Euphorbiaceae,woody,na,summer,wet,full shade
+609,Southern Mahogany,Eucalyptus botryoides Sm.,Myrtaceae,woody,na,spring,dry,full shade
+610,Cusick's Beardtongue,Penstemon cusickii A. Gray,Scrophulariaceae,herbaceous,biannual,fall,dry,partial shade
+611,Talustuft,Lithophila muscoides Sw.,Amaranthaceae,woody,na,summer,dry,full sun
+612,Ripley's Milkvetch,Astragalus ripleyi Barneby,Fabaceae,woody,na,spring,wet,full shade
+613,Shortbristled Needlegrass,Achnatherum brachychaetum (Godr.) Barkworth,Poaceae,herbaceous,biannual,spring,dry,partial shade
+614,Nioi,Eugenia koolauensis O. Deg.,Myrtaceae,woody,na,spring,dry,full sun
+615,Sickle Spurge,Euphorbia falcata L.,Euphorbiaceae,herbaceous,annual,spring,dry,full sun
+616,Rustyseed Paspalum,Paspalum langei (Fourn.) Nash,Poaceae,woody,na,summer,wet,partial shade
+617,Island Swordfern,Polystichum haleakalense Brack.,Dryopteridaceae,woody,na,fall,moderate,full sun
+618,Bastard Toadflax,Comandra Nutt.,Santalaceae,herbaceous,biannual,summer,moderate,partial shade
+619,Sandbar Milkvetch,Astragalus endopterus (Barneby) Barneby,Fabaceae,herbaceous,biannual,summer,dry,partial shade
+620,Script Lichen,Graphis subparilis Nyl.,Graphidaceae,herbaceous,perennial,fall,moderate,full shade
+621,Creeping Tonguefern,Elaphoglossum aemulum (Kaulf.) Brack.,Dryopteridaceae,herbaceous,perennial,spring,wet,full sun
+622,Chinese Lovegrass,Eragrostis unioloides (Retz.) Nees ex Steud.,Poaceae,herbaceous,biannual,spring,wet,full shade
+623,Las Animas Nakedwood,Colubrina californica I.M. Johnst.,Rhamnaceae,woody,na,spring,wet,partial shade
+624,Hairy Rockrose,Cistus incanus L. ssp. corsicus (Loisel.) Heywood,Cistaceae,woody,na,spring,moderate,partial shade
+625,Canyon Bird's-foot Trefoil,Lotus argyraeus (Greene) Greene var. notitius Isely,Fabaceae,herbaceous,perennial,summer,wet,full shade
+626,Corktree,Euonymus phellomanus Loes.,Celastraceae,herbaceous,annual,fall,moderate,full shade
+627,Gymnoderma Lichen,Gymnoderma Nyl.,Cladoniaceae,herbaceous,annual,summer,dry,full sun
+628,Sierra Woolly Indian Paintbrush,Castilleja lanata A. Gray,Scrophulariaceae,woody,na,fall,wet,full shade
+629,Texas Croton,Croton texensis (Klotzsch) Müll. Arg.,Euphorbiaceae,herbaceous,annual,spring,moderate,partial shade
+630,Cartagena Prairie Clover,Dalea carthagenensis (Jacq.) J.F. Macbr. var. carthagenensis,Fabaceae,woody,na,spring,moderate,full sun
+631,Wright's False Mallow,Malvastrum aurantiacum (Scheele) Walp.,Malvaceae,herbaceous,perennial,spring,moderate,full sun
+632,Adirondack Blackberry,Rubus lawrencei L.H. Bailey,Rosaceae,woody,na,summer,wet,full shade
+633,Hall's Wild Cabbage,Caulanthus hallii Payson,Brassicaceae,herbaceous,biannual,fall,dry,full sun
+634,Phaeocalicium Lichen,Phaeocalicium populneum (Brond. ex Duby) A.F.W. Schmidt,Mycocaliciaceae,herbaceous,perennial,fall,dry,full sun
+635,Hollyleaf Clover,Trifolium gymnocarpon Nutt.,Fabaceae,woody,na,spring,wet,partial shade
+636,Lindheimer's Rockdaisy,Perityle lindheimeri (A. Gray) Shinners var. lindheimeri,Asteraceae,herbaceous,perennial,fall,wet,full sun
+637,Bearpoppy,Arctomecon Torr. & Frém.,Papaveraceae,woody,na,summer,moderate,full sun
+638,Smallstalk Necklace Fern,Lindsaea stricta (Sw.) Dryand. ex Sm.,Dennstaedtiaceae,woody,na,fall,wet,partial shade
+639,Redflower Buckwheat,Eriogonum grande Greene var. rubescens (Greene) Munz,Polygonaceae,woody,na,summer,dry,full sun
+640,Vancouver Thistle,Cirsium ×vancouverense J.W. Moore & Frankton,Asteraceae,herbaceous,perennial,spring,wet,full shade
+641,Enchanter's Nightshade,Circaea ×intermedia Ehrh. (pro sp.),Onagraceae,herbaceous,perennial,summer,dry,partial shade
+642,Urceolate Nitrogen Moss,Tetraplodon urceolatus (Hedw.) Bruch & Schimp.,Splachnaceae,woody,na,summer,moderate,partial shade
+643,Torrey's Wrightwort,Carlowrightia torreyana Wassh.,Acanthaceae,herbaceous,annual,spring,moderate,full shade
+644,Bractless Hedgehyssop,Gratiola ebracteata Benth. ex A. DC.,Scrophulariaceae,woody,na,summer,dry,partial shade
+645,Blue Mudplantain,Heteranthera limosa (Sw.) Willd.,Pontederiaceae,herbaceous,biannual,fall,dry,full sun
+646,Royal Cheesewood,Pittosporum napaliense Sherff,Pittosporaceae,woody,na,spring,dry,full shade
+647,Tall Jacob's-ladder,Polemonium acutiflorum Willd. ex Roem. & Schult.,Polemoniaceae,herbaceous,perennial,spring,moderate,full sun
+648,Red Canyon Buckwheat,Eriogonum aretioides Barneby,Polygonaceae,herbaceous,perennial,summer,dry,full shade
+649,'ekoko,Chamaesyce celastroides (Boiss.) Croizat & O. Deg. var. celastroides,Euphorbiaceae,herbaceous,perennial,fall,dry,full shade
+650,Prairie Sunflower,Helianthus petiolaris Nutt. ssp. petiolaris,Asteraceae,herbaceous,biannual,fall,wet,full shade
+651,Chaparral Silktassel,Garrya congdonii Eastw.,Garryaceae,herbaceous,annual,summer,moderate,partial shade
+652,Eggyolk Lichen,Candelariella Müll. Arg.,Candelariaceae,woody,na,summer,moderate,full shade
+653,Roundleaf Monkeyflower,Mimulus glabratus Kunth var. glabratus,Scrophulariaceae,herbaceous,biannual,spring,wet,full sun
+654,Red Swampfire,Salicornia rubra A. Nelson,Chenopodiaceae,woody,na,summer,wet,partial shade
+655,Hooker's Silene,Silene hookeri Nutt. ssp. hookeri,Caryophyllaceae,herbaceous,perennial,summer,dry,partial shade
+656,Valley Popcornflower,Plagiobothrys canescens Benth. var. canescens,Boraginaceae,woody,na,summer,wet,partial shade
+657,Devilwood,Osmanthus americanus (L.) Benth. & Hook. f. ex A. Gray var. megacarpus (Small) P.S. Greene,Oleaceae,herbaceous,perennial,spring,moderate,full shade
+658,Abbotswood Potentilla,Potentilla cinerea Willd. ex Schlect.,Rosaceae,herbaceous,biannual,spring,moderate,full sun
+659,Catalina Ironwood,Lyonothamnus floribundus A. Gray ssp. floribundus,Rosaceae,herbaceous,annual,summer,dry,partial shade
+660,Waternymph,Najas L.,Najadaceae,woody,na,spring,dry,full sun
+661,African Horned Cucumber,Cucumis metuliferus E. Mey. ex Naud.,Cucurbitaceae,herbaceous,biannual,summer,dry,full shade
+662,California Topelia Lichen,Topelia californica P.M. Jørg. & Vezda,Stictidaceae,woody,na,summer,wet,full sun
+663,Smallhead Aster,Symphyotrichum parviceps (Burgess) G.L. Nesom,Asteraceae,herbaceous,annual,fall,wet,partial shade
+664,Abert's Creeping Zinnia,Sanvitalia abertii A. Gray,Asteraceae,herbaceous,annual,summer,wet,partial shade
+665,Strict Blue-eyed Grass,Sisyrinchium montanum Greene,Iridaceae,herbaceous,perennial,spring,dry,full sun
+666,Cup Lichen,Cladonia bacilliformis (Nyl.) Gluck,Cladoniaceae,herbaceous,annual,summer,moderate,full shade
+667,Superb Porpidia Lichen,Porpidia superba (Körb.) Hertel & Knoph,Porpidiaceae,woody,na,fall,moderate,partial shade
+668,Hippobroma,Hippobroma G. Don,Campanulaceae,woody,na,summer,wet,partial shade
+669,Alfalfa,Medicago L.,Fabaceae,woody,na,spring,moderate,full sun
+670,Fireleaf Leptarrhena,Leptarrhena pyrolifolia (D. Don) R. Br. ex Ser.,Saxifragaceae,herbaceous,perennial,spring,wet,full shade
+671,Monoa Melicope,Melicope wawraeana (Rock) T.G. Hartley & B.C. Stone,Rutaceae,woody,na,summer,dry,full sun
+672,Karaka Nut,Corynocarpus laevigatus J.R. Forst. & G. Forst.,Corynocarpaceae,woody,na,fall,dry,full sun
+673,Chambers' Bluegrass,Poa chambersii Soreng,Poaceae,herbaceous,annual,spring,moderate,partial shade
+674,Coastal Monkeyflower,Mimulus dentatus Nutt. ex Benth.,Scrophulariaceae,herbaceous,biannual,summer,wet,full shade
+675,American Searocket,Cakile edentula (Bigelow) Hook. ssp. edentula,Brassicaceae,herbaceous,annual,fall,dry,full sun
+676,Water Pygmyweed,Crassula aquatica (L.) Schoenl.,Crassulaceae,herbaceous,perennial,spring,moderate,partial shade
+677,Parry's Oatgrass,Danthonia parryi Scribn.,Poaceae,woody,na,summer,moderate,full sun
+678,Rape,Brassica napus L.,Brassicaceae,woody,na,fall,wet,partial shade
+679,Parry's Sandmat,Chamaesyce parryi (Engelm.) Rydb.,Euphorbiaceae,woody,na,spring,dry,full shade
+680,Thinleaf Sedge,Carex cephaloidea (Dewey) Dewey,Cyperaceae,woody,na,summer,wet,full shade
+681,Western Swamp Saxifrage,Saxifraga apetala Piper,Saxifragaceae,herbaceous,annual,fall,moderate,partial shade
+682,James' Cryptantha,Cryptantha cinerea (Greene) Cronquist var. arenicola Higgins & S.L. Welsh,Boraginaceae,herbaceous,annual,summer,moderate,full sun
+683,Colorado Desert Mistletoe,Phoradendron macrophyllum (Engelm.) Cockerell,Viscaceae,woody,na,summer,dry,full sun
+684,Rayless Tansyaster,Machaeranthera grindelioides (Nutt.) Shinners,Asteraceae,herbaceous,perennial,spring,moderate,full sun
+685,Piedmont Pinweed,Lechea torreyi Leggett ex Britton,Cistaceae,herbaceous,biannual,fall,dry,full sun
+686,Jimsonweed,Datura stramonium L.,Solanaceae,woody,na,fall,wet,full sun
+687,Lewis' Evening Primrose,Camissonia lewisii P.H. Raven,Onagraceae,herbaceous,annual,fall,wet,full sun
+688,Manystem Centaury,Centaurium multicaule B.L. Rob.,Gentianaceae,woody,na,fall,dry,full shade
+689,Leafcover Saltweed,Atriplex phyllostegia (Torr. ex S. Watson) S. Watson,Chenopodiaceae,herbaceous,biannual,fall,wet,full sun
+690,Augustin Granular Lichen,Lopadium augustini (Tuck.) Zahlbr.,Ectolechiaceae,herbaceous,perennial,summer,wet,full sun
+691,Mexican Blue Oak,Quercus oblongifolia Torr.,Fagaceae,herbaceous,biannual,spring,dry,full shade
+692,Nispero Cimarron,Symplocos lanata Krug & Urb.,Symplocaceae,woody,na,fall,dry,partial shade
+693,Box Knotweed,Polygonum buxiforme Small,Polygonaceae,woody,na,fall,dry,full shade
+694,Polar Sedge,Carex arctiformis Mack.,Cyperaceae,woody,na,summer,wet,full sun
+695,Giant Chinquapin,Chrysolepis chrysophylla (Douglas ex Hook.) Hjelmqvist var. minor (Benth.) Munz,Fagaceae,herbaceous,perennial,summer,moderate,full shade
+696,Carolina Fanwort,Cabomba caroliniana A. Gray,Cabombaceae,herbaceous,perennial,fall,moderate,full shade
+697,Gypsum Grama,Bouteloua breviseta Vasey,Poaceae,herbaceous,perennial,fall,wet,full sun
+698,Gregg's Hawthorn,Crataegus greggiana Eggl.,Rosaceae,woody,na,fall,wet,partial shade
+699,Pentaclethra,Pentaclethra Benth.,Fabaceae,herbaceous,biannual,summer,dry,full shade
+700,Streaked Bur Ragweed,Ambrosia linearis (Rydb.) Payne,Asteraceae,woody,na,fall,moderate,full sun
+701,Platycladus,Platycladus Spach,Cupressaceae,herbaceous,biannual,summer,moderate,partial shade
+702,Pasto Micael,Axonopus micay Garcia-Barr.,Poaceae,woody,na,fall,dry,full shade
+703,Egyptian Riverhemp,Sesbania sesban (L.) Merr. var. sesban,Fabaceae,herbaceous,perennial,fall,moderate,partial shade
+704,Cracked Lichen,Acarospora peliscypha Th. Fr.,Acarosporaceae,herbaceous,biannual,summer,wet,partial shade
+705,Atrichoseris,Atrichoseris A. Gray,Asteraceae,woody,na,summer,wet,full sun
+706,Hairy Indigo,Indigofera hirsuta L.,Fabaceae,woody,na,summer,moderate,full sun
+707,Looseflower Alpine Sedge,Carex rariflora (Wahlenb.) Sm.,Cyperaceae,woody,na,summer,moderate,partial shade
+708,Eastern Featherbells,Stenanthium gramineum (Ker Gawl.) Morong var. robustum (S. Watson) Fernald,Liliaceae,woody,na,fall,moderate,full shade
+709,Fragile Pinkfringe,Arthrostemma fragile Lindl.,Melastomataceae,herbaceous,annual,summer,moderate,full sun
+710,Idaho Balsamroot,Balsamorhiza hookeri (Hook.) Nutt. var. idahoensis (Sharp) Cronquist,Asteraceae,herbaceous,perennial,summer,dry,full sun
+711,Elephantear Pricklypear,Opuntia tuna (L.) Mill.,Cactaceae,herbaceous,biannual,fall,wet,partial shade
+712,Leather Oak,Quercus durata Jeps. var. durata,Fagaceae,herbaceous,annual,fall,dry,full sun
+713,Virginia Chainfern,Woodwardia virginica (L.) Sm.,Blechnaceae,herbaceous,annual,fall,moderate,partial shade
+714,Dot Lichen,Arthonia cinereopruinosa Schaerer,Arthoniaceae,herbaceous,biannual,fall,wet,full shade
+715,Cima Milkvetch,Astragalus cimae M.E. Jones var. sufflatus Barneby,Fabaceae,woody,na,fall,wet,full shade
+716,Barranca Brush,Ceanothus verrucosus Nutt.,Rhamnaceae,woody,na,fall,dry,full shade
+717,Huachuca Hawkweed,Hieracium carneum Greene,Asteraceae,herbaceous,annual,summer,dry,partial shade
+718,Creole Cotton,Gossypium barbadense L.,Malvaceae,woody,na,spring,moderate,partial shade
+719,Yuma Silverbush,Argythamnia serrata (Torr.) Müll. Arg.,Euphorbiaceae,herbaceous,biannual,fall,moderate,full sun
+720,Rim Lichen,Lecanora boligera (Norman ex Th. Fr.) Hedl.,Lecanoraceae,herbaceous,biannual,spring,wet,partial shade
+721,Henbane,Hyoscyamus muticus L.,Solanaceae,woody,na,spring,wet,full shade
+722,Reindeer Lichen,Cladina arbuscula (Wallr.) Hale & W.L. Culb.,Cladoniaceae,herbaceous,perennial,fall,moderate,full sun
+723,Upright Chickweed,Moenchia Ehrh.,Caryophyllaceae,herbaceous,biannual,summer,dry,full sun
+724,Threelobe Rosemallow,Hibiscus trilobus Aubl.,Malvaceae,herbaceous,perennial,summer,wet,full sun
+725,Serillo Dulce,Schizachyrium brevifolium (Sw.) Nees ex Büse,Poaceae,woody,na,spring,dry,full shade
+726,Leathery Rush,Juncus coriaceus Mack.,Juncaceae,woody,na,fall,wet,partial shade
+727,Veitch's Screwpine,Pandanus veitchii hort. Veitch ex Masters & T. Moore,Pandanaceae,woody,na,spring,dry,full shade
+728,Roundleaf Thoroughwort,Eupatorium rotundifolium L. var. ovatum (Bigelow) Torr.,Asteraceae,herbaceous,perennial,fall,moderate,full shade
+729,Royal Peacock Orchid,Psychilis monensis Sauleda,Orchidaceae,herbaceous,perennial,spring,wet,full shade
+730,Hypnum Moss,Hypnum cupressiforme Hedw. var. subjulaceum Molendo,Hypnaceae,herbaceous,biannual,summer,wet,full shade
+731,Erect Centella,Centella erecta (L. f.) Fernald,Apiaceae,woody,na,spring,wet,full sun
+732,Autumn Coralroot,Corallorhiza odontorhiza (Willd.) Poir. var. pringlei (Greenm.) Freudenstein,Orchidaceae,woody,na,spring,moderate,partial shade
+733,Champlain Beachgrass,Ammophila champlainensis Seymour,Poaceae,herbaceous,perennial,summer,moderate,full shade
+734,Glandular Phacelia,Phacelia glandulosa Nutt. var. deserta (A. Nelson) Brand,Hydrophyllaceae,woody,na,fall,wet,full sun
+735,Neofuscelia Lichen,Neofuscelia brunella (Essl.) Essl.,Parmeliaceae,woody,na,spring,dry,partial shade
+736,Northern Willow,Salix arctophila Cockerell ex A. Heller,Salicaceae,woody,na,summer,moderate,partial shade
+737,Gamo De Costa,Phyllanthus juglandifolius Willd.,Euphorbiaceae,herbaceous,biannual,summer,dry,partial shade
+738,Hairy Sandmat,Chamaesyce villifera (Scheele) Small,Euphorbiaceae,herbaceous,biannual,fall,moderate,full sun
+739,Tussock Cottongrass,Eriophorum vaginatum L. var. spissum (Fernald) B. Boivin,Cyperaceae,woody,na,summer,dry,full sun
+740,Cortadora Blanca,Scleria pterota C. Presl ex C.B. Clarke var. pterota,Cyperaceae,woody,na,summer,moderate,partial shade
+741,Castetter's Milkvetch,Astragalus castetteri Barneby,Fabaceae,woody,na,fall,dry,full sun
+742,Pearly Everlasting,Anaphalis DC.,Asteraceae,herbaceous,annual,fall,wet,partial shade
+743,Didymodon Moss,Didymodon fallax (Hedw.) R.H. Zander var. reflexus (Brid.) R.H. Zander,Pottiaceae,woody,na,fall,dry,full sun
+744,Suisun Thistle,Cirsium hydrophilum (Greene) Jeps.,Asteraceae,herbaceous,perennial,spring,wet,partial shade
+745,Arthrostemma,Arthrostemma Pav. ex D. Don,Melastomataceae,woody,na,fall,wet,full sun
+746,Roundleaf Ragwort,Packera obovata (Muhl. ex Willd.) W.A. Weber & Á. Löve,Asteraceae,herbaceous,biannual,summer,wet,full sun
+747,Bristly Stingingbush,Malpighia setosa Spreng.,Malpighiaceae,woody,na,fall,moderate,full shade
+748,Common Tarweed,Centromadia pungens (Hook. & Arn.) Greene ssp. pungens,Asteraceae,herbaceous,annual,summer,wet,full sun
+749,Cleft Phlox,Phlox bifida Beck ssp. stellaria (A. Gray) Wherry,Polemoniaceae,herbaceous,biannual,spring,moderate,full sun
+750,Sierra Tansymustard,Descurainia californica (A. Gray) O.E. Schulz,Brassicaceae,woody,na,summer,wet,partial shade
+751,Lanai Pritchardia,"Pritchardia lanaiensis Becc. & Rock, nom. inq.",Arecaceae,herbaceous,perennial,fall,dry,full shade
+752,Rothrock's Townsend Daisy,Townsendia rothrockii A. Gray ex Rothr.,Asteraceae,woody,na,fall,wet,partial shade
+753,Beet,Beta patellaris Moq.,Chenopodiaceae,herbaceous,perennial,summer,wet,full shade
+754,Spontaneous Barley,Hordeum spontaneum K. Koch,Poaceae,herbaceous,annual,summer,wet,full sun
+755,Golden Linanthus,Leptosiphon aureus (Nutt.) J.M. Porter & L.A. Johnson ssp. decorus (A. Gray) J.M. Porter & L.A. Johnson,Polemoniaceae,woody,na,fall,dry,partial shade
+756,Tufted Wirelettuce,Stephanomeria paniculata Nutt.,Asteraceae,woody,na,spring,wet,full shade
+757,Klamath Erigeron,Erigeron breweri A. Gray var. klamathensis G.L. Nesom,Asteraceae,herbaceous,biannual,spring,dry,full sun
+758,Douglas' Dustymaiden,Chaenactis douglasii (Hook.) Hook. & Arn.,Asteraceae,herbaceous,biannual,spring,wet,partial shade
+759,Sierra Blanca Least-daisy,Ionactis elegans (Soreng & Spellenb.) G.L. Nesom,Asteraceae,herbaceous,perennial,fall,dry,full shade
+760,Orange Daisy,Erigeron aurantiacus Regel,Asteraceae,woody,na,fall,moderate,full shade
+761,Piedmont False Pimpernel,Lindernia monticola Muhl. ex Nutt.,Scrophulariaceae,woody,na,summer,wet,full sun
+762,Desert Draba,Draba arida C.L. Hitchc.,Brassicaceae,woody,na,fall,moderate,full shade
+763,Gairdner's Beardtongue,Penstemon gairdneri Hook. var. oreganus A. Gray,Scrophulariaceae,woody,na,fall,wet,partial shade
+764,Sulphur Clover,Trifolium ochroleucum Huds.,Fabaceae,woody,na,summer,dry,full shade
+765,Eurhynchium Moss,Eurhynchium pulchellum (Hedw.) Jenn.,Brachytheciaceae,woody,na,summer,wet,full shade
+766,Kidneyleaf Buckwheat,Eriogonum reniforme Torr. & Frém.,Polygonaceae,herbaceous,annual,fall,dry,full shade
+767,Glade Fimbry,Fimbristylis brevivaginata Kral,Cyperaceae,woody,na,summer,moderate,full shade
+768,Arizona Poppy,Kallstroemia grandiflora Torr. ex A. Gray,Zygophyllaceae,herbaceous,biannual,spring,dry,full sun
+769,Goldenheather,Hudsonia L.,Cistaceae,herbaceous,biannual,summer,wet,partial shade
+770,Parry's Sedge,Carex parryana Dewey var. parryana,Cyperaceae,woody,na,spring,moderate,partial shade
+771,Mountain Purple Pitcherplant,Sarracenia purpurea L. ssp. purpurea var. montana D.E. Schnell & Determann,Sarraceniaceae,woody,na,fall,dry,full sun
+772,Copeland's Owl's-clover,Orthocarpus cuspidatus Greene ssp. copelandii (Eastw.) T.I. Chuang & Heckard,Scrophulariaceae,herbaceous,annual,spring,wet,partial shade
+773,Hagen's Bryum Moss,Bryum hagenii Limpr.,Bryaceae,herbaceous,annual,spring,dry,full sun
+774,Strawberry,Fragaria ×ananassa (Weston) Duchesne ex Rozier ssp. ananassa,Rosaceae,woody,na,spring,wet,partial shade
+775,Henssen's Map Lichen,Rhizocarpon hensseniae Brodo,Rhizocarpaceae,herbaceous,biannual,spring,moderate,partial shade
+776,Resurrection Lily,Lycoris squamigera Maxim.,Liliaceae,herbaceous,biannual,fall,dry,full shade
+777,Ray Hymenopappus,Hymenopappus radiatus Rose,Asteraceae,woody,na,summer,dry,partial shade
+778,Ochroma,Ochroma Sw.,Bombacaceae,herbaceous,biannual,spring,moderate,full sun
+779,San Benito Spineflower,Chorizanthe biloba Goodman var. immemora Reveal & Hardham,Polygonaceae,herbaceous,annual,fall,wet,full shade
+780,Iranian Stork's Bill,Erodium gruinum (L.) L'Hér. ex Aiton,Geraniaceae,herbaceous,perennial,fall,dry,partial shade
+781,Halberdleaf Tearthumb,Polygonum arifolium L.,Polygonaceae,herbaceous,annual,fall,wet,full shade
+782,Lecidea Lichen,Lecidea rivulorum H. Magn.,Lecideaceae,herbaceous,biannual,fall,dry,full shade
+783,Tall Elephantsfoot,Elephantopus elatus Bertol.,Asteraceae,herbaceous,perennial,summer,dry,full sun
+784,Mountain Carpet Clover,Trifolium monanthum A. Gray,Fabaceae,herbaceous,annual,spring,wet,partial shade
+785,Soapweed Yucca,Yucca glauca Nutt.,Agavaceae,herbaceous,annual,spring,wet,full sun
+786,Flowering Rush,Butomus umbellatus L.,Butomaceae,woody,na,spring,wet,full shade
+787,White Spikerush,Eleocharis albida Torr.,Cyperaceae,herbaceous,annual,summer,wet,full shade
+788,Florida Strap Airplant,Catopsis floribunda L.B. Sm.,Bromeliaceae,herbaceous,perennial,spring,wet,partial shade
+789,Catillaria Lichen,Catillaria cupressi Zahlbr.,Catillariaceae,woody,na,spring,dry,partial shade
+790,San Miguel Milkvetch,Astragalus miguelensis Greene,Fabaceae,woody,na,spring,dry,full shade
+791,Fontinalis Moss,Fontinalis hypnoides Hartm.,Fontinalaceae,woody,na,spring,dry,full sun
+792,Fairyswords,Cheilanthes lindheimeri Hook.,Pteridaceae,herbaceous,perennial,spring,wet,partial shade
+793,Bill Williams Mountain Giant Hyssop,Agastache pallidiflora (A. Heller) Rydb.,Lamiaceae,woody,na,spring,wet,full sun
+794,Chancleta,Hybanthus linearifolius (Vahl) Urb.,Violaceae,woody,na,fall,moderate,full shade
+795,Giant Goldenrod,Solidago gigantea Aiton,Asteraceae,herbaceous,biannual,summer,wet,full shade
+796,Indian's Dream,Aspidotis densa (Brack.) Lellinger,Pteridaceae,woody,na,spring,dry,partial shade
+797,Oahu Flatsedge,Cyperus hypochlorus Hillebr. var. brevior Kük.,Cyperaceae,woody,na,fall,wet,full sun
+798,Rock Buckthorn,Rhamnus saxatilis Jacq.,Rhamnaceae,herbaceous,biannual,fall,dry,full sun
+799,Eggleaf Lacefern,Ctenitis nemorosa (Humb. & Bonpl. ex Willd.) Ching,Dryopteridaceae,herbaceous,biannual,fall,moderate,full sun
+800,Apalachicola St. Johnswort,Hypericum chapmanii P. Adams,Clusiaceae,woody,na,spring,moderate,partial shade
+801,White Bear Sedge,Carex albursina Sheldon,Cyperaceae,herbaceous,biannual,fall,wet,full shade
+802,Ocala Vetch,Vicia ocalensis Godfrey & Kral,Fabaceae,woody,na,summer,wet,full shade
+803,New Mexico Locust,Robinia neomexicana A. Gray var. neomexicana,Fabaceae,herbaceous,perennial,fall,dry,full sun
+804,Elm,Ulmus L.,Ulmaceae,woody,na,summer,wet,full sun
+805,Scarletbush,Hamelia patens Jacq.,Rubiaceae,woody,na,fall,dry,full shade
+806,Arroyo Willow,Salix lasiolepis Benth. var. lasiolepis,Salicaceae,herbaceous,biannual,spring,dry,full shade
+807,San Joaquin Snakeweed,Gutierrezia californica (DC.) Torr. & A. Gray,Asteraceae,woody,na,spring,wet,partial shade
+808,Puerto Rico Silver Palm,Coccothrinax barbadensis (Lodd. ex Mart.) Becc.,Arecaceae,herbaceous,biannual,spring,dry,full shade
+809,Siskiyou Willowherb,Epilobium siskiyouense (Munz) Hoch & P.H. Raven,Onagraceae,woody,na,summer,wet,full shade
+810,Teatree,Leptospermum J.R. Forst. & G. Forst.,Myrtaceae,herbaceous,annual,summer,moderate,full sun
+811,Puerto Rico Water-willow,Justicia martinsoniana Howard,Acanthaceae,woody,na,spring,dry,full shade
+812,Mosquito Bills,Dodecatheon hendersonii A. Gray,Primulaceae,woody,na,spring,moderate,full shade
+813,Small Whorled Pogonia,Isotria medeoloides (Pursh) Raf.,Orchidaceae,herbaceous,annual,summer,dry,full shade
+814,Louisiana Bluestar,Amsonia ludoviciana Vail,Apocynaceae,herbaceous,perennial,fall,wet,full shade
+815,Reddish Cinquefoil,Potentilla rubella T.J. Sørensen,Rosaceae,herbaceous,perennial,summer,moderate,partial shade
+816,Engelmann's Hedgehog Cactus,Echinocereus engelmannii (Parry ex Engelm.) Lem. var. chrysocentrus (Engelm. & J.M. Bigelow) Rümpler,Cactaceae,woody,na,fall,wet,partial shade
+817,Mojave Kingcup Cactus,Echinocereus mojavensis (Engelm. & J.M. Bigelow) Rümpler,Cactaceae,herbaceous,annual,summer,wet,full sun
+818,Ammi,Ammi L.,Apiaceae,herbaceous,perennial,summer,moderate,partial shade
+819,Mendocino Coast Indian Paintbrush,Castilleja mendocinensis (Eastw.) Pennell,Scrophulariaceae,herbaceous,biannual,summer,dry,partial shade
+820,Alaskan Wheatgrass,Elymus alaskanus (Scribn. & Merr.) Á. Löve ssp. alaskanus,Poaceae,herbaceous,perennial,spring,moderate,full shade
+821,Brickellbush,Brickellia Elliott,Asteraceae,woody,na,spring,wet,full sun
+822,Cape Tulip,Moraea Mill.,Iridaceae,herbaceous,perennial,fall,moderate,partial shade
+823,Fiddleneck,Amsinckia Lehm.,Boraginaceae,herbaceous,biannual,spring,wet,full sun
+824,Brownhair Snoutbean,Rhynchosia cinerea Nash,Fabaceae,herbaceous,perennial,spring,moderate,partial shade
+825,Robins' Bellflower,Campanula robinsiae Small,Campanulaceae,herbaceous,biannual,summer,dry,full sun
+826,Desert Goosefoot,Chenopodium pratericola Rydb.,Chenopodiaceae,woody,na,summer,moderate,full sun
+827,Clapperton's Parkia,Parkia clappertoniana Keay,Fabaceae,woody,na,spring,wet,full shade
+828,Twospike Fingergrass,Eustachys floridana Chapm.,Poaceae,herbaceous,annual,summer,moderate,full sun
+829,Rimrock Milkvetch,Astragalus desperatus M.E. Jones var. desperatus,Fabaceae,woody,na,spring,dry,full shade
+830,Giant Shield Lichen,Cetrelia cetrarioides (Delise ex Duby) W.L. Culb. & C.F. Culb.,Parmeliaceae,woody,na,summer,moderate,full shade
+831,Simons' Cotoneaster,Cotoneaster simonsii Baker,Rosaceae,herbaceous,perennial,spring,wet,partial shade
+832,Leafstem Tickseed,Coreopsis calliopsidea (DC.) A. Gray,Asteraceae,woody,na,fall,moderate,partial shade
+833,Panamint Springparsley,Cymopterus panamintensis J.M. Coult. & Rose var. panamintensis,Apiaceae,herbaceous,biannual,spring,dry,partial shade
+834,Pygmyflower Rockjasmine,Androsace septentrionalis L. ssp. subulifera (A. Gray) G.T. Robbins,Primulaceae,herbaceous,perennial,fall,moderate,partial shade
+835,Caraway,Carum carvi L.,Apiaceae,woody,na,fall,dry,full sun
+836,Pubescent Lemmon's Needlegrass,Achnatherum lemmonii (Vasey) Barkworth var. pubescens (Crampton) Barkworth,Poaceae,woody,na,fall,moderate,full shade
+837,Kaweah Monkeyflower,Mimulus norrisii Heckard & Shevock,Scrophulariaceae,woody,na,fall,dry,partial shade
+838,Gypsum Tansyaster,Machaeranthera gypsophila B.L. Turner,Asteraceae,woody,na,fall,wet,full shade
+839,Stiff Star-grass,Hypoxis rigida Chapm.,Liliaceae,woody,na,fall,dry,full shade
+840,Serianthes,Serianthes Benth.,Fabaceae,woody,na,summer,dry,full shade
+841,Rosebud Orchid,Cleistes divaricata (L.) Ames,Orchidaceae,woody,na,summer,wet,partial shade
+842,Scarlet Four O'clock,Mirabilis coccinea (Torr.) Benth. & Hook. f.,Nyctaginaceae,woody,na,fall,moderate,full shade
+843,Border Pricklypear,Opuntia atrispina Griffiths,Cactaceae,herbaceous,annual,summer,wet,partial shade
+844,Bullhorn Wattle,Acacia cornigera (L.) Willd.,Fabaceae,herbaceous,perennial,spring,dry,partial shade
+845,Pinkava's Cliffrose,Purshia pinkavae Schaack,Rosaceae,herbaceous,biannual,summer,dry,full shade
+846,Yellow White Larkspur,Delphinium xantholeucum Piper,Ranunculaceae,woody,na,summer,moderate,full sun
+847,Australian Panicgrass,Entolasia marginata (R. Br.) Hughes,Poaceae,woody,na,summer,wet,full shade
+848,Royal Schiedea,Schiedea salicaria Hillebr.,Caryophyllaceae,woody,na,spring,wet,full shade
+849,Harper's Beaksedge,Rhynchospora harperi Small,Cyperaceae,herbaceous,biannual,summer,dry,full shade
+850,Western Sandcherry,Prunus pumila L. var. besseyi (L.H. Bailey) Gleason,Rosaceae,woody,na,summer,wet,partial shade
+851,White Garland-lily,Hedychium coronarium J. Koenig,Zingiberaceae,herbaceous,perennial,summer,dry,full shade
+852,Islandfern,Olfersia Raddi,Dryopteridaceae,woody,na,fall,dry,full shade
+853,Helodium Moss,Helodium paludosum (Sull.) Austin,Helodiaceae,herbaceous,perennial,summer,wet,full shade
+854,Weakstalk Bulrush,Schoenoplectiella purshiana (Fernald) Lye,Cyperaceae,herbaceous,perennial,spring,dry,full sun
+855,Monkeyflower,Erythranthe Spach,Scrophulariaceae,woody,na,fall,moderate,full shade
+856,Selenia,Selenia Nutt.,Brassicaceae,woody,na,summer,dry,full shade
+857,Woodland Bog Orchid,Habenaria eustachya Rchb. f.,Orchidaceae,herbaceous,annual,fall,wet,full shade
+858,Narrowleaf Blue Eyed Mary,Collinsia linearis A. Gray,Scrophulariaceae,woody,na,summer,wet,partial shade
+859,Hawai'i Phyllostegia,Phyllostegia floribunda Benth.,Lamiaceae,woody,na,fall,dry,partial shade
+860,Agardh Lupine,Lupinus agardhianus A. Heller,Fabaceae,woody,na,fall,moderate,partial shade
+861,Pecho Manzanita,Arctostaphylos pechoensis (Dudley ex Abrams) Dudley ex Munz,Ericaceae,woody,na,fall,wet,partial shade
+862,Fullstem,Chamaechaenactis scaposa (Eastw.) Rydb.,Asteraceae,woody,na,fall,moderate,full sun
+863,Crested Wheatgrass,Agropyron cristatum (L.) Gaertn. ssp. cristatum,Poaceae,woody,na,summer,moderate,full shade
+864,Map Lichen,Rhizocarpon viridiatrum (Wulfen) Körb.,Rhizocarpaceae,woody,na,fall,dry,full shade
+865,Beale's Barberry,Mahonia bealei (Fortune) Carrière,Berberidaceae,woody,na,fall,wet,full shade
+866,Eschscholtz's Buttercup,Ranunculus eschscholtzii Schltdl. var. oxynotus (A. Gray) Jeps.,Ranunculaceae,woody,na,fall,dry,full sun
+867,Neolloydia,Neolloydia Britton & Rose,Cactaceae,herbaceous,annual,fall,wet,partial shade
+868,Southwestern Muhly,Muhlenbergia palmeri Vasey,Poaceae,woody,na,summer,dry,full shade
+869,Kunzea,Kunzea Rchb.,Myrtaceae,herbaceous,biannual,spring,wet,full sun
+870,Wideleaf Stegonia Moss,Stegonia latifolia (Schwägr.) Vent. ex Broth.,Pottiaceae,herbaceous,annual,summer,moderate,full sun
+871,Hoary Tansyaster,Machaeranthera canescens (Pursh) A. Gray ssp. canescens var. canescens,Asteraceae,woody,na,spring,moderate,full sun
+872,Beach Tidytips,Layia carnosa (Nutt.) Torr. & A. Gray,Asteraceae,woody,na,spring,dry,full sun
+873,Purpus' Sullivantia,Sullivantia hapemanii (J.M. Coult. & Fisher) J.M. Coult. var. purpusii (Brand) Soltis,Saxifragaceae,herbaceous,annual,spring,dry,full sun
+874,Mojave Cottonthorn,Tetradymia stenolepis Greene,Asteraceae,woody,na,fall,dry,partial shade
+875,Uinta Sandwort,Arenaria kingii (S. Watson) M.E. Jones ssp. uintahensis (A. Nelson) Maguire,Caryophyllaceae,woody,na,summer,moderate,full shade
+876,Desert Threadplant,Nemacladus rubescens Greene var. tenuis McVaugh,Campanulaceae,woody,na,spring,dry,full sun
+877,Nuttall's Toothwort,Cardamine nuttallii Greene var. covilleana (O.E. Schultz) Rollins,Brassicaceae,herbaceous,perennial,summer,wet,full sun
+878,Pinyon Rockcress,Arabis dispar M.E. Jones,Brassicaceae,herbaceous,biannual,spring,dry,partial shade
+879,Sessileflower False Goldenaster,Heterotheca sessiliflora (Nutt.) Shinners ssp. fastigiata (Greene) Semple var. sanjacintensis Semple,Asteraceae,herbaceous,annual,summer,wet,full shade
+880,Lance Pottia Moss,Pottia lanceolata (Hedw.) Müll. Hal.,Pottiaceae,woody,na,fall,moderate,full shade
+881,Limestone Grass,Leptochloopsis Yates,Poaceae,herbaceous,annual,spring,wet,full shade
+882,Robison's Monardella,Monardella robisonii Epling ex Munz,Lamiaceae,woody,na,fall,moderate,partial shade
+883,Trelease's Hybrid Willowherb,Epilobium ×treleaseanum H. Lév.,Onagraceae,herbaceous,biannual,summer,moderate,full sun
+884,Davall's Pottia Moss,Pottia davalliana (Sm.) C.E.O. Jensen,Pottiaceae,woody,na,fall,moderate,full shade
+885,Pioneer Violet,Viola glabella Nutt.,Violaceae,herbaceous,annual,fall,moderate,full shade
+886,Stinking Camphorweed,Pluchea foetida (L.) DC.,Asteraceae,woody,na,spring,dry,full sun
+887,Small Matweed,Guilleminea densa (Humb. & Bonpl. ex Schult.) Moq. var. aggregata Uline & Bray,Amaranthaceae,woody,na,fall,wet,full shade
+888,Rimmed Lichen,Aspicilia pertusa (Lynge) J.W. Thomson,Hymeneliaceae,herbaceous,perennial,spring,dry,full sun
+889,Orange Bush Monkeyflower,Diplacus aurantiacus (W. Curtis) Jeps. ssp. aurantiacus,Scrophulariaceae,woody,na,summer,moderate,full sun
+890,Oregon Cliff Fern,Woodsia oregana D.C. Eaton,Dryopteridaceae,herbaceous,biannual,summer,moderate,full sun
+891,Water Cowbane,Oxypolis filiformis (Walter) Britton,Apiaceae,herbaceous,annual,fall,dry,partial shade
+892,Moist Sowthistle,Sonchus arvensis L. ssp. uliginosus (M. Bieb.) Nyman,Asteraceae,herbaceous,annual,spring,dry,full sun
+893,Tuckerman's Fishscale Lichen,Psora tuckermanii R. Anderson ex Timdal,Psoraceae,woody,na,spring,moderate,full shade
+894,Jacob's-ladder,Polemonium pulcherrimum Hook. ssp. pulcherrimum,Polemoniaceae,herbaceous,perennial,spring,moderate,partial shade
+895,Droophead Tufted Airplant,Guzmania lingulata (L.) Mez,Bromeliaceae,woody,na,spring,dry,partial shade
+896,Smallflower False Foxglove,Agalinis paupercula (A. Gray) Britton var. borealis Pennell,Scrophulariaceae,woody,na,fall,moderate,partial shade
+897,Meyen's Twigrush,Machaerina mariscoides (Gaudich.) J. Kern ssp. meyenii (Kunth) T. Koyama,Cyperaceae,herbaceous,biannual,summer,dry,full sun
+898,King's Lupine,Lupinus kingii S. Watson var. kingii,Fabaceae,herbaceous,annual,spring,dry,full sun
+899,Teosinte,Zea luxurians (Durieu & Asch.) Bird,Poaceae,woody,na,fall,moderate,partial shade
+900,Germander Speedwell,Veronica chamaedrys L.,Scrophulariaceae,woody,na,summer,moderate,full shade
+901,Rushleaf Eryngo,Eryngium petiolatum Hook.,Apiaceae,woody,na,spring,dry,partial shade
+902,Palmer's Spleenwort,Asplenium palmeri Maxon,Aspleniaceae,herbaceous,biannual,summer,moderate,full sun
+903,Shield Lichen,Parmelia squarrosa Hale,Parmeliaceae,woody,na,fall,moderate,partial shade
+904,Schweinitz's Sedge,Carex schweinitzii Dewey ex Schwein.,Cyperaceae,herbaceous,perennial,spring,wet,partial shade
+905,Tobacco,Nicotiana excelsior (J.M. Black) J.M. Black,Solanaceae,woody,na,summer,dry,partial shade
+906,Linanthus,Linanthus Benth.,Polemoniaceae,woody,na,summer,wet,partial shade
+907,Cacapon River Blackberry,Rubus fryei H.A. Davis & T. Davis,Rosaceae,herbaceous,annual,summer,wet,partial shade
+908,Basil Thyme,Acinos arvensis (Lam.) Dandy,Lamiaceae,woody,na,fall,dry,full sun
+909,Oakleaf Goosefoot,Chenopodium glaucum L.,Chenopodiaceae,woody,na,fall,moderate,full sun
+910,Chinese Chastetree,Vitex negundo L. var. negundo,Verbenaceae,woody,na,summer,moderate,full shade
+911,Hillside False Bindweed,Calystegia subacaulis Hook. & Arn.,Convolvulaceae,herbaceous,annual,fall,dry,partial shade
+912,Festulolium,×Festulolium Asch. & Graebn.,Poaceae,woody,na,spring,moderate,full shade
+913,Common Velvetgrass,Holcus lanatus L.,Poaceae,woody,na,fall,dry,partial shade
+914,Pseudobraunia Moss,Pseudobraunia (Lesq. & James) Broth.,Hedwigiaceae,woody,na,fall,dry,full sun
+915,Gibbens' Beardtongue,Penstemon gibbensii Dorn,Scrophulariaceae,herbaceous,annual,spring,moderate,full sun
+916,Laplacea,Laplacea Kunth,Theaceae,woody,na,summer,dry,partial shade
+917,Coastal Phacelia,Phacelia laxa Small,Hydrophyllaceae,woody,na,fall,moderate,partial shade
+918,Thollon's Strophanthus,Strophanthus thollonii Franchet,Apocynaceae,woody,na,fall,dry,full sun
+919,Ellipticleaf Cyanea,Cyanea elliptica (Rock) Lammers,Campanulaceae,herbaceous,perennial,summer,wet,full sun
+920,Sago Palm,Metroxylon sagu Rottb.,Arecaceae,herbaceous,annual,spring,dry,full shade
+921,Yam Bean,Pachyrhizus ahipa (Wedd.) L. Parodi,Fabaceae,herbaceous,biannual,fall,dry,full sun
+922,James' Beardtongue,Penstemon jamesii Benth.,Scrophulariaceae,herbaceous,biannual,spring,moderate,partial shade
+923,Tube Lichen,Hypogymnia metaphysodes (Asah.) Rass.,Parmeliaceae,woody,na,summer,moderate,full sun
+924,Hyssopleaf Thoroughwort,Eupatorium hyssopifolium L. var. laciniatum A. Gray,Asteraceae,herbaceous,annual,spring,dry,partial shade
+925,Hybrid Violet,Viola ×mistura House (pro sp.),Violaceae,woody,na,fall,moderate,full sun
+926,Animated Oat,Avena sterilis L.,Poaceae,herbaceous,biannual,spring,wet,full sun
+927,Balbis' Milkvine,Matelea balbisii (Decne.) Woodson,Asclepiadaceae,herbaceous,biannual,spring,dry,partial shade
+928,California Evening Primrose,Oenothera arizonica (Munz) W.L. Wagner,Onagraceae,woody,na,fall,wet,full shade
+929,Ashe's Calamint,Clinopodium ashei (Weath.) Small,Lamiaceae,woody,na,summer,wet,full shade
+930,Hoover's Desertparsley,Lomatium tuberosum Hoover,Apiaceae,herbaceous,annual,fall,wet,full sun
+931,Balsampear,Momordica charantia L.,Cucurbitaceae,woody,na,fall,moderate,full sun
+932,Gorman's Biscuitroot,Lomatium gormanii (Howell) J.M. Coult. & Rose,Apiaceae,woody,na,spring,wet,full shade
+933,Davis' Fleabane,Erigeron engelmannii A. Nelson var. davisii (Cronquist) Cronquist,Asteraceae,woody,na,spring,wet,partial shade
+934,Greater Florida Spurge,Euphorbia floridana Chapm.,Euphorbiaceae,woody,na,fall,wet,partial shade
+935,Sitka Shield Lichen,Heterodermia sitchensis Goward & W. Noble,Physciaceae,woody,na,summer,dry,partial shade
+936,Stiff Blue-eyed Grass,Sisyrinchium demissum Greene,Iridaceae,herbaceous,perennial,fall,dry,partial shade
+937,Red Cryptocarya,Cryptocarya rubra (Molina) Skeels,Lauraceae,woody,na,spring,wet,full shade
+938,Columbian Rockcress,Arabis sparsiflora Nutt. var. columbiana (Macoun) Rollins,Brassicaceae,woody,na,summer,wet,partial shade
+939,Rim Lichen,Lecanora caesiorubella Ach. ssp. saximontana Imshaug & Brodo,Lecanoraceae,woody,na,summer,moderate,partial shade
+940,European Purple Lousewort,Pedicularis palustris L.,Scrophulariaceae,herbaceous,perennial,summer,wet,full shade
+941,Waterwort,Elatine L.,Elatinaceae,herbaceous,annual,summer,dry,full shade
+942,Hawai'i Hala Pepe,Pleomele hawaiiensis O. Deg. & I. Deg.,Liliaceae,herbaceous,biannual,summer,dry,full sun
+943,Sonoran Chinchweed,Pectis cylindrica (Fernald) Rydb.,Asteraceae,woody,na,summer,dry,full sun
+944,Japanese Bristlegrass,Setaria faberi Herrm.,Poaceae,herbaceous,perennial,summer,wet,full sun
+945,North's False Flag,Neomarica northiana (Schneev.) Sprague,Iridaceae,herbaceous,biannual,summer,moderate,full sun
+946,Hypotrachyna Lichen,Hypotrachyna pseudosinuosa (Asah.) Hale,Parmeliaceae,woody,na,summer,dry,full shade
+947,Manyflower Tobacco,Nicotiana acuminata (Graham) Hook.,Solanaceae,herbaceous,annual,spring,wet,partial shade
+948,Poorman's Umbrella,Gunnera insignis Oerst.,Gunneraceae,woody,na,summer,wet,full shade
+949,Hairy Buttercup,Ranunculus sardous Crantz,Ranunculaceae,woody,na,summer,dry,full shade
+950,Grassland Beggarticks,Bidens micrantha Gaudich. ssp. micrantha,Asteraceae,woody,na,spring,moderate,full shade
+951,Alyssum Evening Primrose,Camissonia boothii (Douglas ex Lehm.) P.H. Raven ssp. alyssoides (Hook. & Arn.) P.H. Raven,Onagraceae,herbaceous,perennial,fall,dry,partial shade
+952,Pappose Tarweed,Centromadia parryi (Greene) Greene ssp. australis (D.D. Keck) B.G. Baldw.,Asteraceae,woody,na,fall,wet,full sun
+953,China Doll,Radermachera Zoll. & Moritzi,Bignoniaceae,woody,na,fall,dry,partial shade
+954,Pitted Onion,Allium lacunosum S. Watson var. lacunosum,Liliaceae,herbaceous,annual,spring,moderate,partial shade
+955,Orzell's Blazing Star,Liatris ×orzellii G.L Nesom,Asteraceae,woody,na,summer,wet,full sun
+956,Woollyhead Clover,Trifolium eriocephalum Nutt. ssp. arcuatum (Piper) J.M. Gillett,Fabaceae,woody,na,fall,dry,full shade
+957,Brown Mustard,Brassica juncea (L.) Czern.,Brassicaceae,herbaceous,biannual,spring,dry,full shade
+958,Tansyaster,Rayjacksonia R.L. Hartm. & M.A. Lane,Asteraceae,herbaceous,annual,summer,dry,full sun
+959,Lake Willow Dock,Rumex salicifolius Weinm. var. lacustris (Greene) J.C. Hickman,Polygonaceae,herbaceous,perennial,summer,moderate,full sun
+960,Broadleaved Lavender,Lavandula latifolia Medikus,Lamiaceae,woody,na,spring,dry,full shade
+961,White Prairie Aster,Symphyotrichum falcatum (Lindl.) G.L. Nesom var. falcatum,Asteraceae,woody,na,fall,wet,partial shade
+962,Eastern Pasqueflower,Pulsatilla patens (L.) Mill. ssp. patens (L.) Mill. [excluded],Ranunculaceae,herbaceous,perennial,summer,moderate,full sun
+963,Hicaquillo,Dendropemon sintenisii Krug & Urb.,Loranthaceae,herbaceous,annual,fall,dry,full sun
+964,Crested Floatingheart,Nymphoides cristata (Roxb.) Kuntze,Menyanthaceae,woody,na,summer,wet,partial shade
+965,Sticky Cinquefoil,Potentilla glandulosa Lindl. ssp. glandulosa,Rosaceae,herbaceous,biannual,fall,moderate,partial shade
+966,Privet Senna,Senna ligustrina (L.) Irwin & Barneby,Fabaceae,herbaceous,annual,spring,moderate,full sun
+967,Cup Lichen,Cladonia ecmocyna Leight. ssp. ecmocyna,Cladoniaceae,woody,na,spring,wet,full sun
+968,Diffuse Spineflower,Chorizanthe diffusa Benth.,Polygonaceae,woody,na,summer,dry,full sun
+969,Goatsbeard,Tragopogon ×neohybridus Farw.,Asteraceae,herbaceous,perennial,spring,dry,full sun
+970,Huntsville Vasevine,Clematis morefieldii Kral,Ranunculaceae,woody,na,fall,wet,full shade
+971,Diaz Bluestem,Dichanthium annulatum (Forssk.) Stapf var. annulatum,Poaceae,herbaceous,biannual,spring,moderate,partial shade
+972,Dracontium,Dracontium L.,Araceae,herbaceous,biannual,spring,moderate,full sun
+973,Cane Bluestem,Bothriochloa barbinodis (Lag.) Herter,Poaceae,herbaceous,perennial,summer,moderate,partial shade
+974,Bentley's Coralroot,Corallorhiza bentleyi Freudenstein,Orchidaceae,herbaceous,annual,spring,dry,full sun
+975,Horsehair Lichen,Bryoria trichodes (Michx.) Brodo & D. Hawksw.,Parmeliaceae,herbaceous,perennial,spring,dry,partial shade
+976,Manyawn Pricklyleaf,Thymophylla aurea (A. Gray) Greene ex Britton,Asteraceae,woody,na,spring,dry,partial shade
+977,Hempnettle,Galeopsis L.,Lamiaceae,herbaceous,perennial,summer,dry,full sun
+978,Petty Spurge,Euphorbia peplus L.,Euphorbiaceae,herbaceous,perennial,fall,wet,partial shade
+979,Antitrichia Moss,Antitrichia curtipendula (Hedw.) Brid. var. curtipendula,Leucodontaceae,woody,na,spring,wet,full shade
+980,Coral Vine,Antigonon leptopus Hook. & Arn.,Polygonaceae,herbaceous,perennial,spring,wet,full sun
+981,Dactylospora Lichen,Dactylospora pertusariicola (Willey ex Tuck.) Hafellner,Dactylosporaceae,herbaceous,perennial,summer,wet,full sun
+982,Stinging Serpent,Cevallia sinuata Lag.,Loasaceae,herbaceous,biannual,spring,wet,full sun
+983,Mata De Mariposa,Gonzalagunia hirsuta (Jacq.) K. Schum.,Rubiaceae,woody,na,summer,moderate,full shade
+984,Arctic Yellow Violet,Viola biflora L. ssp. biflora,Violaceae,herbaceous,perennial,summer,wet,full shade
+985,Lilac Penstemon,Penstemon gracilis Nutt.,Scrophulariaceae,herbaceous,perennial,fall,wet,partial shade
+986,Bigleaf Lupine,Lupinus polyphyllus Lindl. ssp. polyphyllus var. polyphyllus,Fabaceae,herbaceous,biannual,summer,wet,full shade
+987,Orthotrichum Moss,Orthotrichum pallens Bruch ex Brid. var. pallens,Orthotrichaceae,woody,na,fall,wet,full shade
+988,Twinevine,Funastrum Fourn.,Asclepiadaceae,herbaceous,biannual,fall,moderate,full shade
+989,Milkwood,Tabernaemontana L.,Apocynaceae,herbaceous,annual,spring,dry,full shade
+990,Sarcographa Lichen,Sarcographa tricosa (Ach.) Müll. Arg.,Graphidaceae,woody,na,spring,wet,full shade
+991,Basin Fleabane,Erigeron pulcherrimus A. Heller,Asteraceae,woody,na,fall,wet,full shade
+992,Crato Passionvine,Passiflora cincinnata Masters,Passifloraceae,woody,na,spring,wet,partial shade
+993,Hillside False Ohelo,Wikstroemia uva-ursi A. Gray,Thymelaeaceae,woody,na,fall,dry,full sun
+994,White Fishhook Cactus,Echinomastus intertextus (Engelm.) Britton & Rose,Cactaceae,woody,na,summer,dry,full sun
+995,Oconee Bells,Shortia galacifolia Torr. & A. Gray var. galacifolia,Diapensiaceae,herbaceous,perennial,fall,wet,full shade
+996,Banisteriopsis,Banisteriopsis C.B. Rob. ex Small,Malpighiaceae,woody,na,spring,dry,full sun
+997,Fiddle Dock,Rumex pulcher L.,Polygonaceae,woody,na,fall,moderate,full shade
+998,Greenman's Biscuitroot,Lomatium greenmanii Mathias,Apiaceae,herbaceous,perennial,fall,moderate,full shade
+999,Beach Pea,Lathyrus japonicus Willd.,Fabaceae,herbaceous,perennial,fall,dry,partial shade
+1000,Buttonsage,Lantana involucrata L. var. involucrata,Verbenaceae,woody,na,spring,dry,partial shade
